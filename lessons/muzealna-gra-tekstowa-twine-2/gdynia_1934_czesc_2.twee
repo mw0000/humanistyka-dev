@@ -1,0 +1,264 @@
+:: StoryTitle
+gdynia_1934
+
+
+:: StoryData
+{
+  "ifid": "892EF492-ABF0-4BFC-A874-795E90598F93",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Przybycie do Gdyni",
+  "zoom": 1
+}
+
+
+:: Bójka na Witominie! {"position":"925,525","size":"100,100"}
+Nie dajesz sobie w kaszę dmuchać, a pijany marynarz może mieć ze sobą jakieś cenne przedmioty. Stajesz do walki!
+
+(set: $wynik_bojki to (either: 0, 0, 0, 1, 1, 2))
+
+(if: $wynik_bojki is 1)[
+  Wygrałeś! Portfel + 25, zdrowie -5.
+ (set: $zdrowie to $zdrowie - 5)
+  (set: $portfel to $portfel + 25)
+]
+(else-if: $wynik_bojki is 2)[
+ Przegrałeś z kretesem! Nigdy nie bij się z pijanym marynarzem, bo zawsze zawoła po kolegów! Portfel - 25, zdrowie - 25.
+  (set: $zdrowie to $zdrowie - 25)
+  (set: $portfel to $portfel - 25)
+]
+ (else:)[
+  Zanim zaczęliście bójkę na serio pojawiła się policja i wszyscy się rozbiegli.
+  Zdrowie -2
+  (set: $zdrowie to $zdrowie - 2)
+]
+
+''Działania''
+
+(if: $portfel > 20)[
+[[Nocleg na Witominie]]
+] (else:)[
+Nie stać Cię na nocleg na Witominie.
+]
+
+[[Nocleg w hotelu robotniczym]] 
+[[Nocleg na ulicy]]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+:: Naprawa budy na Witominie {"position":"800,275","size":"100,100"}
+Na Witominie rozbudowuje się osiedle domków i budy z drewnianych skrzynek po owocach i, pozostałości stoczniowych. Ciężko się tu żyje, ale można czasem znaleźć pracę. Za tydzień pracy przy naprawie domku dostajesz 20 zł.
+
+(set: $portfel to $portfel + 30)
+
+''Działania''
+
+[[Nocleg w hotelu robotniczym]] 
+
+(if: $portfel > 20)[
+[[Nocleg na Witominie]]
+] (else:)[
+Nie stać Cię na nocleg na Witominie.
+]
+
+[[Nocleg na ulicy]]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+:: Nocleg na Witominie {"position":"800,400","size":"100,100"}
+Nocleg w kilka osób budzie skleconej z drewnianych skrzynek i pozostałości po remontach statków. Można trochę odpocząć i zjeść coś ze wspólnego kotła. Nocleg kosztuje 20 zl za tydzien.
+
+(set: $zdrowie to $zdrowie + 10)
+(set: $tydzien to $tydzien - 1)
+(set: $mieszkanie to 1)
+(set: $portfel to $portfel - 20)
+
+''Działania''
+
+(set: $praca_w_porcie to (either: 0, 0, 1))
+(set: $naprawa_budy_witomino to (either: 0, 0, 1))
+(set: $bojka_na_witominie to (either: 0, 0, 1, 1))
+
+(if: $bojka_na_witominie is 1)[
+[[Bójka na Witominie!]] Zaczepił Cię jakiś pijany marynarz! Staniesz do walki czy uciekniesz? 
+] (else:)[
+  Dziś jest spokojnie w Twojej okolicy.
+]
+
+(if: $praca_w_porcie is 1)[
+
+(if: $zdrowie > 50)[
+	[[Praca w porcie]]
+] 
+(else:)[
+	Nie masz siły na pracę w porcie...
+]
+] (else:)[
+	Dziś nie ma dla Ciebie pracy w porcie gdyńskim.
+]
+
+(if: $naprawa_budy_witomino is 1)[
+[[Naprawa budy na Witominie]]
+] (else:)[
+   Dziś nie ma dla Ciebie pracy na Witominie.
+]
+
+[[Sprzątanie ulic]]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+:: Nocleg na ulicy {"position":"800,150","size":"100,100"}
+Nocowanie na ulicy to ostateczność. Jeśli jest zima, szukasz miejsca w przytułku. Brak stałego kąta odbija się na Twoim zdrowiu.
+
+(set: $zdrowie to $zdrowie - 20)
+(set: $tydzien to $tydzien - 1)
+(set: $mieszkanie to 0)
+
+''Działania''
+
+(set: $praca_w_porcie to (either: 0, 0, 1))
+(set: $naprawa_budy_witomino to (either: 0, 0, 1))
+
+(if: $praca_w_porcie is 1)[
+
+(if: $zdrowie > 50)[
+	[[Praca w porcie]]
+] 
+(else:)[
+	Nie masz siły na pracę w porcie...
+]
+] (else:)[
+	Dziś nie ma dla Ciebie pracy w porcie gdyńskim.
+]
+
+(if: $naprawa_budy_witomino is 1)[
+[[Naprawa budy na Witominie]]
+] (else:)[
+   Dziś nie ma dla Ciebie pracy na Witominie.
+]
+
+[[Sprzątanie ulic]]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+:: Nocleg w hotelu robotniczym {"position":"250,475","size":"100,100"}
+Dzięki poleceniu nauczyciela z rodzinnej wsi udało Ci się znaleźć nocleg w hotelu robotniczym na dalekim Grabówku. Jest was czterdziestu w wielkiej, dusznej sali - ale lepsze to niż spać na ulicy. Łóżko kosztuje tutaj złotówkę za noc, ale nie wiesz, jak długo wytrzymasz w takich warunkach.
+
+(set: $tydzien to $tydzien - 1)
+(set: $portfel to $portfel - 7)
+(set: $zdrowie to $zdrowie - 10)
+(set: $mieszkanie to 1)
+
+(set: $praca_w_porcie to (either: 0, 0, 1))
+(set: $naprawa_budy_witomino to (either: 0, 0, 1))
+
+''Działania''
+
+(if: $praca_w_porcie is 1)[
+
+(if: $zdrowie > 50)[
+	[[Praca w porcie]]
+] 
+(else:)[
+	Nie masz siły na pracę w porcie...
+]
+] (else:)[
+	Dziś nie ma dla Ciebie pracy w porcie gdyńskim.
+]
+
+(if: $naprawa_budy_witomino is 1)[
+[[Naprawa budy na Witominie]]
+] (else:)[
+   Dziś nie ma dla Ciebie pracy na Witominie.
+]
+
+[[Sprzątanie ulic]] 
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+
+:: Praca w porcie {"position":"575,125","size":"100,100"}
+Praca w porcie gdyńskim jest ciężka, a jako niewykwalifikowany robotnik zarabiasz 30 zł tygodniowo.
+
+(set: $portfel to $portfel + 30)
+
+''Działania''
+
+[[Nocleg w hotelu robotniczym]] 
+[[Nocleg na ulicy]]
+
+(if: $portfel > 20)[
+[[Nocleg na Witominie]]
+] (else:)[
+Nie stać Cię na nocleg na Witominie.
+]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+:: Przybycie do Gdyni {"position":"275,100","size":"100,100"}
+
+Nazywasz się ''Antoni Sulikowski'', masz 21 lat. Pochodzisz z małej wsi pod Rzeszowem. Jest wiosna 1934 roku, przyjechałeś właśnie do Gdyni w poszukiwaniu pracy. Chcesz wyjechać do Ameryki, ale nie masz pełnej sumy na bilet. Dalsza rodzina, która wyemigrowała do USA jeszcze pod koniec XIX wieku, podarowała Ci trochę dolarów - z sumy 800 zł, koniecznej do opłacenia karty pokładowej na SS Polonia, brakuje Ci 300 zł. Masz rok na zarobienie tych pieniędzy - inaczej rodzina zza oceanu zacznie domagać się zwrotu darowizny...
+
+(set: $tydzien to 52)
+(set: $portfel to 500)
+(set: $zdrowie to 100)
+(set: $mieszkanie to 0)
+
+Wysiadasz na dworcu Gdynia Główna, wychodzisz na ulicę. Widzisz na horyzoncie port i morze. 
+
+Musisz znaleźć [[miejsce do spania->Nocleg w hotelu robotniczym]].
+
+
+
+:: Sprzątanie ulic {"position":"775,575","size":"100,100"}
+Sprzątanie ulicy pozwala Ci zarobić 15 złotych.
+
+(set: $portfel to $portfel + 15)
+
+''Działania''
+
+[[Nocleg w hotelu robotniczym]] 
+[[Nocleg na ulicy]]
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
