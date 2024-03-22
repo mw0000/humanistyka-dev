@@ -1,0 +1,45 @@
+:: StoryTitle
+gdynia_1934
+
+
+:: StoryData
+{
+  "ifid": "892EF492-ABF0-4BFC-A874-795E90598F93",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Przybycie do Gdyni",
+  "zoom": 1
+}
+
+
+:: Nocleg w hotelu robotniczym {"position":"925,375","size":"100,100"}
+Dzięki poleceniu nauczyciela z rodzinnej wsi udało Ci się znaleźć nocleg w hotelu robotniczym na dalekim Grabówku. Jest was czterdziestu w wielkiej, dusznej sali - ale lepsze to niż spać na ulicy. Łóżko kosztuje tutaj złotówkę za noc, ale nie wiesz, jak długo wytrzymasz w takich warunkach.
+
+(set: $tydzien to $tydzien - 1)
+(set: $portfel to $portfel - 7)
+(set: $zdrowie to $zdrowie - 10)
+(set: $mieszkanie to 1)
+
+
+''Karta gry''
+
+Zostało tygodni: $tydzien
+Portfel:  $portfel zł
+Zdrowie: $zdrowie
+Mieszkanie: $mieszkanie
+
+
+
+:: Przybycie do Gdyni {"position":"800,375","size":"100,100"}
+
+Nazywasz się ''Antoni Sulikowski'', masz 21 lat. Pochodzisz z małej wsi pod Rzeszowem. Jest wiosna 1934 roku, przyjechałeś właśnie do Gdyni w poszukiwaniu pracy. Chcesz wyjechać do Ameryki, ale nie masz pełnej sumy na bilet. Dalsza rodzina, która wyemigrowała do USA jeszcze pod koniec XIX wieku, podarowała Ci trochę dolarów - z sumy 800 zł, koniecznej do opłacenia karty pokładowej na SS Polonia, brakuje Ci 300 zł. Masz rok na zarobienie tych pieniędzy - inaczej rodzina zza oceanu zacznie domagać się zwrotu darowizny...
+
+(set: $tydzien to 52)
+(set: $portfel to 500)
+(set: $zdrowie to 100)
+(set: $mieszkanie to 0)
+
+Wysiadasz na dworcu Gdynia Główna, wychodzisz na ulicę. Widzisz na horyzoncie port i morze. 
+
+Musisz znaleźć [[miejsce do spania->Nocleg w hotelu robotniczym]].
+
