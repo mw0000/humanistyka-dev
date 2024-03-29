@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "dataset_information": {
+      "title": "Zbiory malarstwa - Muzeum Narodowe we Wrocławiu",
+      "description": "Podstawowe dane o 388 obiektach z kolekcji 'Malarstwo' oraz wizerunki tych obiektów (miniaturki). Dane i wizerunki zostały udostępnione w witrynie muzeum cyfrowego MNWR",
+      "creator": "Muzeum Narodowe we Wrocławiu / mw0000",
+      "date": "2024-03-29",
+      "version": "1.0",
+      "source": "https://muzeumcyfrowe.mnwr.pl/kolekcja/malarstwo"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "mnwr-paintings.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera kolumny: object_id, object_uri, title, description, image_uri. Uwaga: identyfikatory obiektów nie są zbieżne z identyfikatorami MNWR.",
+          "size": "83112"
+        },
+        {
+          "name": "xpath_queries.txt",
+          "format": "text/plain",
+          "description": "Kwerendy XPath do wykorzystania na witrynie muzeum cyfrowego MNRW.",
+          "size": "609"
+        },
+        {
+          "name": "/images",
+          "format": "image/jpeg",
+          "description": "Miniaturki obiektów, szerokość do 300px",
+          "size": "22651904"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna / CC0",
+      "license_uri": "https://creativecommons.org/publicdomain/zero/1.0/deed.pl",
+      "github": "",
+      "what_for": [
+        "przetwarzanie danych",
+        "wizualizacja danych",
+        "rozpoznawanie koloru",
+        "uczenie maszynowe"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "dataset_information": {
+      "title": "Dane o obiektach widocznych na obrazach z kolekcji Muzeum Narodowego w Warszawie",
+      "description": "Wygenerowane na podstawie danych Wikidata informacje o obiektach widocznych na obrazach w kolekcji MNW. Uwaga: Wikidane nie udostępniają pełnej informacji o zbiorach kolekcji MNW.",
+      "creator": "Wikidane / mw0000",
+      "date": "2024-03-29",
+      "version": "1.0",
+      "source": "https://w.wiki/9Tdn"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "mnw_paintings_labels.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera 8059 wierszy i kolumny: painting (identyfikator obiektu w Wikidanych), paintingLabel (tytuł obiektu), depicts (identyfikator rozpoznanego obiektu), depictsLabel (tytuł rozpoznanego obiektu)",
+          "size": "970827"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna / CC0",
+      "license_uri": "https://creativecommons.org/publicdomain/zero/1.0/deed.pl",
+      "github": "",
+      "what_for": [
+        "przetwarzanie danych",
+        "wizualizacja danych"
+      ]
+    }
+  }
+}

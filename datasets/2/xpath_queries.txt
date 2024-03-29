@@ -1,0 +1,12 @@
+uri
+//div[contains(concat(' ', normalize-space(@class), ' '), ' objects-grid ') and contains(concat(' ', normalize-space(@class), ' '), ' multimedia ') and contains(concat(' ', normalize-space(@class), ' '), ' multimedia--equal ')]//a/@href
+
+title
+//h2[@class="multimedia__title"]/span/text()
+
+img
+//div[@class="multimedia__photo-wrapper"]/img/@src
+
+txt
+//div[contains(concat(' ', normalize-space(@class), ' '), ' objects-grid ') and contains(concat(' ', normalize-space(@class), ' '), ' multimedia ') and contains(concat(' ', normalize-space(@class), ' '), ' multimedia--equal ')]//div[position()=2]/text()
+
