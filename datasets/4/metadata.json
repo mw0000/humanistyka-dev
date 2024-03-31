@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "dataset_information": {
+      "title": "Polskie muzea w Wikidanych",
+      "description": "Informacje o 1044 polskich muzeach: nazwy, koordynaty geograficzne, adresy stron internetowych ze statusem HTTP, wizerunki (Wikimedia Commons).",
+      "creator": "Wikidata / mw0000",
+      "date": "2024-03-31",
+      "version": "1.0",
+      "source": "https://w.wiki/9d3D"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "polish_museums_wikidata.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera 1211 obserwacji i kolumny: museum (identyfikator Wikidanych), museumLabel, coordinates, website, image (Wikimedia Commons)",
+          "size": "230918"
+        },
+        {
+          "name": "http_status_results.csv",
+          "format": "text/csv",
+          "description": "Adresy 717 witryn polskich muzeów i ich status (kod odpowiedzi HTTP). Tabela zawiera kolumny: website, http_status, date_checked",
+          "size": "40858"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna / CC0",
+      "license_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "github": "https://github.com/mw0000/humanistyka-dev/tree/main/datasets/4",
+      "what_for": [
+        "mapa cyfrowa",
+        "wizualizacja danych",
+        "archiwistyka Webu"
+      ]
+    }
+  }
+}
