@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "dataset_information": {
+      "title": "Wikipedia: hasła linkowane ",
+      "description": "Zbiór zawiera treści 526 haseł z polskiej Wikipedii, poświęconych historii Polski (hasło Historia_Polski oraz hasła linkowane z tej strony).",
+      "creator": "Wikipedia / mw0000",
+      "date": "2024-04-02",
+      "version": "1.0",
+      "source": "https://pl.wikipedia.org/"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "wiki_polish_history.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera kolumny: article_title, article_id (identyfikator hasła w Wikipedii), filename, nchar (liczba znaków)",
+          "size": "41564"
+        },
+        {
+          "name": "articles.zip",
+          "format": "application/zip",
+          "description": "Plik archiwum zawierający 526 plików tekstowych z treściami artykułów",
+          "size": "5280934"
+        },
+        {
+          "name": "/articles",
+          "format": "text/plain",
+          "description": "526 plików tekstowych zawierających treści artykułów",
+          "size": "13468800"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0",
+      "license_uri": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.pl",
+      "github": "https://github.com/mw0000/humanistyka-dev/tree/main/datasets/3",
+      "what_for": [
+        "analiza języka naturalnego",
+        "rozpoznawanie jednostek nazwanych",
+        "analizy korpusowe"
+      ]
+    }
+  }
+}
