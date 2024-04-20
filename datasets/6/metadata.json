@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "dataset_information": {
+      "title": "Kolekcja miniatur - Muzeum Narodowe w Krakowie",
+      "description": "Zbiór zawiera metadane i wizerunki obiektów z kolekcji miniatur, udostępnianych przez Muzeum Narodowe w Krakowie.",
+      "creator": "Muzeum Narodowe w Krakowie / mw0000",
+      "date": "2024-04-15",
+      "version": "1.0",
+      "source": "https://zbiory.mnk.pl/pl/galerie-tematyczne/519?view=viewBox"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "mnk_portraits.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera kolumny: object_title, object_image_url, object_url, creator_name, creator_lifetime, creation_time",
+          "size": "41564"
+        },
+        {
+          "name": "/images",
+          "format": "image/jpeg",
+          "description": "31 plików graficznych - miniaturek obiektów",
+          "size": "7339168"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna",
+      "license_uri": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "github": "https://github.com/mw0000/humanistyka-dev/tree/main/datasets/6",
+      "what_for": [
+        "maszynowe rozpoznawanie twarzy",
+        "analiza kolorów",
+        "wizualizacja danych"
+      ]
+    }
+  }
+}
