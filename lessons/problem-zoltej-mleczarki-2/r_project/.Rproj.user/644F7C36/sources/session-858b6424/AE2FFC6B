@@ -1,0 +1,26 @@
+{
+    "id": "AE2FFC6B",
+    "path": "/cloud/project/milkmaid_effect.R",
+    "project_path": "milkmaid_effect.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1713731726975.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713622458,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713622458,
+    "read_only": false,
+    "read_only_alternatives": []
+}
