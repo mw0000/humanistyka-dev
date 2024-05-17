@@ -1,0 +1,32 @@
+[
+    {
+        "nazwa": "Fort Piontek",
+        "id": 368,
+        "dlugosc_geogr": 20.9518,
+        "szerokosc_geogr": 52.3448
+    },
+    {
+        "nazwa": "Budynek biurowo-usługowy",
+        "id": 380,
+        "dlugosc_geogr": 20.9694,
+        "szerokosc_geogr": 52.3263
+    },
+    {
+        "nazwa": "Przepompownia Nowodwory",
+        "id": 378,
+        "dlugosc_geogr": 20.9449,
+        "szerokosc_geogr": 52.3247
+    },
+    {
+        "nazwa": "Urząd Pocztowy nr 91",
+        "id": 337,
+        "dlugosc_geogr": 20.9549,
+        "szerokosc_geogr": 52.3208
+    },
+    {
+        "nazwa": "Ratusz Białołęka",
+        "id": 278,
+        "dlugosc_geogr": 20.9707,
+        "szerokosc_geogr": 52.3211
+    }
+]
