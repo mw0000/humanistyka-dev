@@ -1,0 +1,21 @@
+language:
+  label:
+    fig: 'Rycina '
+    tab: 'Tabela '
+    eq: 'Równanie '
+    thm: 'Twierdzenie '
+    lem: 'Lemat '
+    cor: 'Wniosek '
+    prp: 'Propozycja '
+    cnj: 'Hipoteza '
+    def: 'Definicja '
+    exm: 'Przykład '
+    exr: 'Ćwiczenie '
+    hyp: 'Hipoteza '
+    proof: 'Dowód. '
+    remark: 'Uwaga. '
+    solution: 'Rozwiązanie. '
+  ui:
+    chapter_name: 'Rozdział '
+    appendix_name: 'Aneks '
+rmd_files: ["index.Rmd", "o_fundacji.Rmd","o_muzeum.Rmd","statystyki_zbiorow.Rmd","sprawy_techniczne.Rmd","badanie.Rmd","opinie.Rmd","plany.Rmd"]
