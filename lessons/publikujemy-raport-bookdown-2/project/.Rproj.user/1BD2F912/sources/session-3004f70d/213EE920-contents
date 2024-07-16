@@ -1,0 +1,24 @@
+# Statystyki zbiorów
+
+W 2022 roku Cyfrowe Muzeum Pocztówek udostępniło łącznie 1,200 pocztówek, z czego znacząca część, bo aż 700, pochodziła z regionów Pomorza i Kujaw. Pozostałe pocztówki reprezentowały inne obszary Polski, w tym Mazowsze, Wielkopolskę oraz Małopolskę. Nad procesem digitalizacji i opisywania pocztówek pracowało w 2022 roku 15 wolontariuszy, którzy poświęcili na ten cel łącznie 1,500 godzin. Wolontariusze, zarówno dorośli pasjonaci historii, jak i uczniowie uczestniczący w warsztatach, przyczynili się do dokładnego opisu każdej pocztówki, uwzględniając metadane i konteksty historyczne.
+
+```{r, echo = FALSE}
+library(DT)
+DT::datatable(dane)
+```
+
+W 2023 roku Cyfrowe Muzeum Pocztówek zwiększyło swoje tempo pracy, udostępniając 1,800 pocztówek. Najwięcej z nich, bo aż 1,000, nadal pochodziło z Pomorza i Kujaw, co odzwierciedla główny obszar zainteresowania fundacji Bardzo Lokalne Historie. Z kolei 500 pocztówek pochodziło z Dolnego Śląska, a pozostałe 300 z różnych regionów wschodniej Polski, w tym Lubelszczyzny i Podkarpacia. Liczba wolontariuszy wzrosła do 20 osób, a łączny czas poświęcony na digitalizację i opisywanie pocztówek wyniósł 2,000 godzin. Dzięki zaangażowaniu wolontariuszy, każdy z udostępnionych obrazów został dokładnie opisany i opatrzony odpowiednimi metadanymi.
+
+```{r, echo = FALSE}
+library(plotly)
+fig <- plot_ly(dane, x = ~miesiac, y = ~pocztowki_udostepnione, type = 'bar')
+fig <- fig %>% layout(title = 'Pocztówki udostępnione w poszczególnych miesiącach',
+                      xaxis = list(title = 'Miesiąc'),
+                      yaxis = list(title = 'Pocztówki udostępnione'))
+
+fig
+```
+
+Podział regionalny udostępnionych pocztówek w latach 2022 i 2023 pokazuje wyraźne skupienie na Pomorzu i Kujawach, co stanowi łącznie 1,700 pocztówek z tych regionów. Inne regiony Polski były reprezentowane przez 1,300 pocztówek, co pokazuje dążenie do zrównoważonego przedstawienia całej historycznej różnorodności kraju. Statystyki te odzwierciedlają zarówno dostępność materiałów z poszczególnych regionów, jak i zainteresowania fundacji w kontekście lokalnego dziedzictwa.
+
+Wzrost liczby wolontariuszy i liczby godzin poświęconych na prace digitalizacyjne oraz opisowe pokazuje rosnące zaangażowanie społeczne w projekt Cyfrowego Muzeum Pocztówek. Fundacja Bardzo Lokalne Historie aktywnie angażuje lokalną społeczność i szkoły, organizując warsztaty, które nie tylko edukują, ale także inspirują do dalszej pracy nad zachowaniem dziedzictwa kulturowego. Dzięki współpracy z wolontariuszami i uczestnikami warsztatów, muzeum stale poszerza swoją kolekcję, umożliwiając coraz większej liczbie osób dostęp do unikatowych zasobów historycznych.

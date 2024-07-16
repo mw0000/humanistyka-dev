@@ -1,0 +1,13 @@
+# bookdown
+
+# 1. instalujemy bibliotekę bookdown i wczytujemy do środowiska
+
+install.packages("bookdown")
+library(bookdown)
+
+#2. generowanie pliku pdf
+
+render_book("index.Rmd", "bookdown::pdf_book", config_file="_bookdown.yml")
+
+render_book("index.Rmd", "bookdown::html_document2", config_file="_bookdown.yml")
+

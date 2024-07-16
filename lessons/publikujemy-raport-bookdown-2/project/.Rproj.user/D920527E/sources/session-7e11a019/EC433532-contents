@@ -1,0 +1,169 @@
+# Wprowadzenie do raportu
+
+![Pocztówka - Gdańsk](../assets/pocztowka1.jpg)
+
+- Cyfrowe Muzeum Pocztówek, prowadzone przez fundację Bardzo Lokalne Historie, od ponad dwóch lat intensywnie pracuje nad dokumentowaniem i udostępnianiem unikalnych zasobów pocztówkowych z terenów dzisiejszej Polski oraz ziem polskich sprzed 1939 roku. Projekt ten zyskuje na znaczeniu, stając się cennym narzędziem edukacyjnym i badawczym, a także miejscem spotkań dla pasjonatów historii i lokalnych społeczności. Dzięki szerokiemu zaangażowaniu wolontariuszy oraz innowacyjnym rozwiązaniom technologicznym, muzeum konsekwentnie rozwija swoje zbiory, jednocześnie zapewniając wysoką jakość prezentowanych materiałów.
+- Raport ten przedstawia kluczowe działania i osiągnięcia Cyfrowego Muzeum Pocztówek w latach 2022-2023, z szczególnym uwzględnieniem metodologii badań użytkowników, statystyk związanych z digitalizacją oraz planów na przyszłość. Dzięki przeprowadzonym wywiadom z 39 użytkownikami muzeum, udało się zgromadzić cenne informacje na temat ich doświadczeń i oczekiwań. Wyniki tych badań pozwalają na lepsze zrozumienie potrzeb odbiorców oraz identyfikację obszarów, które wymagają dalszego doskonalenia.
+- W perspektywie nadchodzącego roku 2024, fundacja zamierza kontynuować prace nad poszerzaniem zbiorów i wprowadzaniem nowych funkcji, które zwiększą interaktywność i dostępność zasobów muzeum. Planowane działania obejmują m.in. digitalizację kolejnych pocztówek, rozwój narzędzi do społecznościowego opisywania oraz implementację zaawansowanych technologii rozpoznawania obiektów historycznych. Wszystkie te inicjatywy mają na celu nie tylko wzbogacenie zasobów Cyfrowego Muzeum Pocztówek, ale również aktywne zaangażowanie społeczności w proces zachowywania i promowania lokalnego dziedzictwa kulturowego.
+
+<!--chapter:end:index.Rmd-->
+
+
+# Fundacja Bardzo Lokalne Historie
+
+[Fundacja Bardzo Lokalne Historie](https://google.pl/) z siedzibą w Gdańsku jest organizacją non-profit, której misją jest ochrona i promowanie lokalnego dziedzictwa kulturowego. Od początku swojego istnienia fundacja działa na rzecz dokumentowania, zachowywania i upowszechniania historii regionu Pomorza, ze szczególnym uwzględnieniem mniej znanych i nieoczywistych aspektów lokalnej tożsamości. Poprzez organizację wystaw, warsztatów i spotkań, fundacja dąży do angażowania społeczności lokalnych w odkrywanie i pielęgnowanie ich własnej historii.
+
+### Cyfrowe Muzeum Pocztówek
+
+Jednym z flagowych projektów fundacji jest [Cyfrowe Muzeum Pocztówek](https://google.pl/), które jest rozwijane od ponad dwóch lat. Celem tego projektu jest gromadzenie, digitalizacja i udostępnianie szerokiej publiczności zbiorów historycznych pocztówek, które stanowią cenny świadectwo minionych epok. Pocztówki te nie tylko dokumentują zmiany urbanistyczne i krajobrazowe, ale również ukazują codzienne życie, obyczaje i kulturę dawnych mieszkańców regionu. Dzięki staraniom fundacji, te unikatowe zbiory są teraz dostępne online, co umożliwia zarówno badaczom, jak i pasjonatom historii odkrywanie bogatego dziedzictwa Pomorza.
+
+### Edukacja i animacja historyczna
+
+Fundacja Bardzo Lokalne Historie kładzie duży nacisk na **edukację i angażowanie młodszych pokoleń w działania na rzecz ochrony dziedzictwa**. Poprzez współpracę z lokalnymi szkołami, uniwersytetami i innymi instytucjami edukacyjnymi, fundacja organizuje różnorodne programy edukacyjne, które mają na celu zwiększenie świadomości historycznej oraz zainteresowania lokalną kulturą. Cyfrowe Muzeum Pocztówek jest jednym z narzędzi, które fundacja wykorzystuje do realizacji tych celów, oferując dostęp do materiałów dydaktycznych i zasobów, które mogą być wykorzystywane w procesie nauczania.
+
+Dzięki zaangażowaniu i pasji członków fundacji oraz wsparciu lokalnej społeczności, Bardzo Lokalne Historie stają się ważnym centrum działalności kulturalnej i edukacyjnej w regionie. Fundacja nieustannie poszukuje nowych sposobów na rozwijanie swoich projektów i poszerzanie zasięgu swojej działalności, dążąc do tego, aby bogata historia Pomorza była dostępna i zrozumiała dla jak najszerszego grona odbiorców.
+
+<!--chapter:end:o_fundacji.Rmd-->
+
+# Cyfrowe Muzeum Pocztówek
+
+Cyfrowe Muzeum Pocztówek, będące projektem fundacji Bardzo Lokalne Historie, to unikatowa kolekcja ponad 3 tysięcy pocztówek, które dokumentują wygląd miejscowości z terenów dzisiejszej Polski oraz ziem polskich sprzed 1939 roku. Szczególną uwagę poświęcono regionom Pomorza i Kujaw, które są bogate w historyczne i kulturowe dziedzictwo. Pocztówki w muzeum przedstawiają nie tylko zabytki architektury i pejzaże, ale także codzienne życie mieszkańców, co czyni tę kolekcję niezwykle wartościową z punktu widzenia badaczy, historyków oraz pasjonatów historii.
+
+### Metadane
+
+Każda pocztówka w Cyfrowym Muzeum Pocztówek jest starannie opisana zestawem metadanych, które obejmują informacje o miejscu i czasie powstania, autorze, wydawcy oraz wszelkie dodatkowe konteksty historyczne. Dodatkowo, każda pocztówka jest opatrzona czytelną informacją o prawach autorskich, co gwarantuje użytkownikom jasność co do możliwości wykorzystania materiałów. Udostępniane wizerunki znajdują się w domenie publicznej, co umożliwia ich swobodne przeglądanie, udostępnianie i wykorzystywanie w celach edukacyjnych i badawczych.
+
+### Źródła skanów
+
+Źródła skanów pocztówek są różnorodne. Znaczna część pochodzi z regionalnych bibliotek cyfrowych, które od lat gromadzą i digitalizują zasoby historyczne. Ponadto, wiele pocztówek zostało samodzielnie zeskanowanych przez członków fundacji oraz wolontariuszy ze zbiorów prywatnych kolekcjonerów. Dzięki temu Cyfrowe Muzeum Pocztówek jest w stanie oferować szeroki i zróżnicowany zbiór, który odzwierciedla bogactwo historyczne różnych regionów Polski.
+
+### Wsparcie wolontariuszy
+
+W opisywaniu pocztówek i tworzeniu metadanych fundacji pomagają liczni wolontariusze, którzy swoją pasją i wiedzą przyczyniają się do wzbogacania muzeum. W ramach projektu organizowane są również warsztaty dla uczniów, podczas których młodzież nie tylko poznaje historię regionu, ale także uczy się, jak profesjonalnie dokumentować i opisywać zbiory. Dzięki temu Cyfrowe Muzeum Pocztówek nie tylko pełni rolę archiwum cyfrowego, ale także aktywnie angażuje społeczność lokalną, promując edukację historyczną i rozwijając zainteresowanie dziedzictwem kulturowym.
+
+Cyfrowe Muzeum Pocztówek to doskonały przykład, jak dzięki nowoczesnym technologiom i zaangażowaniu lokalnej społeczności można chronić i upowszechniać cenne dziedzictwo kulturowe. Fundacja Bardzo Lokalne Historie poprzez ten projekt nie tylko zachowuje przeszłość, ale także tworzy most między dawnymi a współczesnymi pokoleniami, umożliwiając każdemu odkrywanie i docenianie piękna i historii polskich regionów.
+
+<!--chapter:end:o_muzeum.Rmd-->
+
+# Statystyki zbiorów
+
+W 2022 roku Cyfrowe Muzeum Pocztówek udostępniło łącznie 1,200 pocztówek, z czego znacząca część, bo aż 700, pochodziła z regionów Pomorza i Kujaw. Pozostałe pocztówki reprezentowały inne obszary Polski, w tym Mazowsze, Wielkopolskę oraz Małopolskę. Nad procesem digitalizacji i opisywania pocztówek pracowało w 2022 roku 15 wolontariuszy, którzy poświęcili na ten cel łącznie 1,500 godzin. Wolontariusze, zarówno dorośli pasjonaci historii, jak i uczniowie uczestniczący w warsztatach, przyczynili się do dokładnego opisu każdej pocztówki, uwzględniając metadane i konteksty historyczne.
+
+W 2023 roku Cyfrowe Muzeum Pocztówek zwiększyło swoje tempo pracy, udostępniając 1,800 pocztówek. Najwięcej z nich, bo aż 1,000, nadal pochodziło z Pomorza i Kujaw, co odzwierciedla główny obszar zainteresowania fundacji Bardzo Lokalne Historie. Z kolei 500 pocztówek pochodziło z Dolnego Śląska, a pozostałe 300 z różnych regionów wschodniej Polski, w tym Lubelszczyzny i Podkarpacia. Liczba wolontariuszy wzrosła do 20 osób, a łączny czas poświęcony na digitalizację i opisywanie pocztówek wyniósł 2,000 godzin. Dzięki zaangażowaniu wolontariuszy, każdy z udostępnionych obrazów został dokładnie opisany i opatrzony odpowiednimi metadanymi.
+
+Podział regionalny udostępnionych pocztówek w latach 2022 i 2023 pokazuje wyraźne skupienie na Pomorzu i Kujawach, co stanowi łącznie 1,700 pocztówek z tych regionów. Inne regiony Polski były reprezentowane przez 1,300 pocztówek, co pokazuje dążenie do zrównoważonego przedstawienia całej historycznej różnorodności kraju. Statystyki te odzwierciedlają zarówno dostępność materiałów z poszczególnych regionów, jak i zainteresowania fundacji w kontekście lokalnego dziedzictwa.
+
+Wzrost liczby wolontariuszy i liczby godzin poświęconych na prace digitalizacyjne oraz opisowe pokazuje rosnące zaangażowanie społeczne w projekt Cyfrowego Muzeum Pocztówek. Fundacja Bardzo Lokalne Historie aktywnie angażuje lokalną społeczność i szkoły, organizując warsztaty, które nie tylko edukują, ale także inspirują do dalszej pracy nad zachowaniem dziedzictwa kulturowego. Dzięki współpracy z wolontariuszami i uczestnikami warsztatów, muzeum stale poszerza swoją kolekcję, umożliwiając coraz większej liczbie osób dostęp do unikatowych zasobów historycznych.
+
+<!--chapter:end:statystyki_zbiorow.Rmd-->
+
+# Techniczne podstawy Muzeum
+
+Cyfrowe Muzeum Pocztówek działa w oparciu o oprogramowanie open source Omeka, które stanowi solidną podstawę techniczną projektu. Oprogramowanie open source oznacza, że kod źródłowy jest publicznie dostępny i może być swobodnie używany, modyfikowany i dystrybuowany przez każdego. Takie podejście zapewnia dużą elastyczność oraz umożliwia dostosowanie platformy do specyficznych potrzeb muzeum. Korzystanie z open source ma również znaczenie ekonomiczne, ponieważ eliminuje koszty licencyjne związane z komercyjnym oprogramowaniem. Omeka, będąca jednym z najpopularniejszych rozwiązań dla muzeów cyfrowych, oferuje szeroki wachlarz funkcji i dodatków, które wspierają zarządzanie zbiorami, ich prezentację oraz interakcję z użytkownikami.
+
+### Jakość skanów
+
+Skany pocztówek w Cyfrowym Muzeum Pocztówek są wykonane w wysokiej jakości 300 DPI (dots per inch) i mają minimalną szerokość 1800 pikseli. Takie parametry zapewniają, że detale każdej pocztówki są wyraźnie widoczne, co jest kluczowe dla badaczy oraz pasjonatów historii. Dodatkowo, muzeum wykorzystuje IIIF (International Image Interoperability Framework), który umożliwia zaawansowane przeglądanie i powiększanie obrazów. IIIF to standard, który pozwala na interoperacyjność i łatwe udostępnianie obrazów w wysokiej rozdzielczości pomiędzy różnymi instytucjami i platformami. Dzięki temu użytkownicy mogą dokładnie przyjrzeć się każdemu szczegółowi pocztówki, co jest niezwykle cenne w kontekście badań historycznych.
+
+### Interfejs programistyczny
+
+Fundacja Bardzo Lokalne Historie udostępnia również API (Application Programming Interface), które umożliwia programistom budowanie własnych aplikacji opartych na zasobach muzeum. Obecnie fundacja rozwija narzędzie do społecznościowego opisywania pocztówek, co pozwala użytkownikom na aktywne uczestniczenie w projekcie poprzez dodawanie własnych opisów i metadanych. To narzędzie nie tylko zwiększa zaangażowanie społeczności, ale także pomaga w tworzeniu bogatszych i bardziej kompletnych zasobów.
+
+### Automatyczne rozpoznawanie obiektów
+
+Dodatkowo, fundacja pracuje nad trenowaniem modelu do rozpoznawania obiektów historycznych na pocztówkach z Pomorza Gdańskiego. Wykorzystując nowoczesne technologie uczenia maszynowego, fundacja dąży do automatyzacji procesu identyfikacji i opisywania elementów architektonicznych, krajobrazowych oraz innych ważnych detali historycznych. Tego rodzaju innowacyjne podejście pozwoli na szybsze i bardziej efektywne katalogowanie zbiorów oraz dostarczanie użytkownikom jeszcze bardziej wartościowych informacji. Cyfrowe Muzeum Pocztówek dzięki zastosowaniu nowoczesnych technologii i zaangażowaniu społeczności staje się nie tylko miejscem przechowywania historii, ale również dynamiczną platformą edukacyjną i badawczą.
+
+<!--chapter:end:sprawy_techniczne.Rmd-->
+
+# Badanie użytkowników Muzeum Pocztówek
+
+Badanie z użytkownikami muzeum, przeprowadzone za pomocą wywiadów, miało na celu zgłębienie ich doświadczeń i opinii na temat Cyfrowego Muzeum Pocztówek. Metodologia badania opierała się na strukturalnych wywiadach kwalitatywnych z 39 uczestnikami, reprezentującymi różne grupy wiekowe i role użytkowników, takie jak nauczyciele, studenci, pasjonaci historii oraz programiści.
+
+### Metoda wywiadów
+
+Podczas wywiadów skupiano się na różnorodnych aspektach korzystania z muzeum, w tym na pozytywnych doświadczeniach, wyzwaniach, jakie napotykają, oraz sugestiach dotyczących poprawy platformy. Pytania dotyczyły m.in. użyteczności interfejsu, jakości zasobów, możliwości interaktywnych oraz edukacyjnego potencjału muzeum.
+
+### Podsumowanie wyników
+
+Wyniki badań dostarczyły głębszego zrozumienia potrzeb i oczekiwań użytkowników, co pozwoliło na identyfikację obszarów do dalszego rozwoju i usprawnienia Cyfrowego Muzeum Pocztówek. Integracja opinii użytkowników jest kluczowa dla zapewnienia, że platforma odpowiada na potrzeby różnorodnych grup odbiorców oraz dostarcza satysfakcjonującego doświadczenia korzystania z zasobów kulturowych online.
+
+**Zalety serwisu**
+
+Bogactwo dostępnych pocztówek z różnych regionów Polski.
+Wysoka jakość skanów, umożliwiająca dokładne przyjrzenie się detalom.
+Możliwość powiększania obrazów dzięki IIIF.
+Interaktywne warsztaty online dla dzieci i młodzieży.
+Przyjazny dla programistów interfejs API.
+Swobodny dostęp do zasobów w domenie publicznej.
+Zaangażowanie społeczności w opisywanie i katalogowanie pocztówek.
+Dobre wykorzystanie oprogramowania open source Omeka.
+Dostosowanie strony do różnych urządzeń, w tym mobilnych.
+Edukacyjny potencjał zasobów dla nauczycieli i studentów historii.
+
+**Wady i ograniczenia serwisu**
+
+Skomplikowany interfejs użytkownika, trudny do nawigacji dla mniej doświadczonych.
+Niejednolity poziom opisów pocztówek, czasem brak głębszego kontekstu historycznego.
+Długi czas ładowania się obrazów, szczególnie irytujący przy intensywnym korzystaniu.
+Ograniczona liczba pocztówek z niektórych regionów Polski.
+Brak możliwości przeglądania pocztówek offline.
+Problemy z moderacją nowych treści dodawanych przez społeczność.
+Brak szczegółowej dokumentacji dla mniej doświadczonych programistów korzystających z API.
+Potrzeba lepszej wyszukiwarki, aby szybciej znaleźć konkretne pocztówki.
+Niedostosowanie strony do pełnego wykorzystania potencjału mobilnego.
+Niejednolita jakość skanów, co może utrudniać analizę niektórych detali historycznych.
+
+<!--chapter:end:badanie.Rmd-->
+
+# Opinie użytkowników
+
+Anna K., nauczycielka historii:
+*Uwielbiam bogactwo dostępnych pocztówek z Pomorza i Kujaw, wykorzystuję je na lekcjach historii. Interfejs strony jest bardzo intuicyjny, nawet dla młodszych uczniów.*
+
+Marek J., lokalny pasjonat historii:
+*Jakość skanów jest znakomita, mogę zobaczyć każdy detal!*
+
+Piotr S., programista:
+*Fantastyczna inicjatywa z udostępnieniem API! Mogę tworzyć własne aplikacje oparte na zbiorach muzeum. Mam tylko nadzieję, że narzędzie do społecznościowego opisywania zostanie szybciej wdrożone, bo brakuje mi bardziej interaktywnej współpracy.*
+
+Kasia M., studentka historii:
+*IIIF naprawdę robi wrażenie, mogę dokładnie przyjrzeć się każdej pocztówce. Podoba mi się też, że mogę uczestniczyć w warsztatach online i korzystać z muzeum na moim telefonie.*
+
+Monika P., wolontariuszka:
+*Lubię zaangażowanie społeczności i możliwość dodawania opisów. Jednak moderacja nowych treści mogłaby być szybsza, bo czasem trzeba długo czekać na akceptację dodanych informacji.*
+
+Zofia K., kolekcjonerka pocztówek:
+*Jako kolekcjonerka doceniam wysoką jakość skanów i metadanych. Mam nadzieję, że więcej regionów zostanie równie dobrze udokumentowanych jak Pomorze i Kujawy. To naprawdę wspaniały projekt! Brakuje mi jednak lepszej wyszukiwarki na stronie, żeby łatwiej znaleźć konkretne pocztówki.*
+
+Ola W., studentka informatyki:
+*API otwiera mnóstwo możliwości i bardzo cenię sobie tę opcję. Jednak dokumentacja mogłaby być bardziej szczegółowa dla mniej doświadczonych programistów, co ułatwiłoby start z projektem.*
+
+Magdalena Z., graficzka
+*Cieszę się, że pocztówki są dostępne w domenie publicznej, to ciekawy zasób do tworzenia kolaży. Możliwość swobodnego korzystania z tych historycznych obrazów otwiera ogromne pole do twórczości artystycznej. Mogę bez ograniczeń łączyć różne elementy z różnych epok i regionów, tworząc unikalne dzieła sztuki. Dzięki wysokiej jakości skanów, detale są doskonale widoczne, co dodaje głębi i autentyczności moim projektom. Dodatkowo, świadomość, że moje prace opierają się na prawdziwych fragmentach historii, nadaje im dodatkowego znaczenia i wartości. Jestem wdzięczna fundacji za udostępnienie tych zasobów w tak przystępnej formie.*
+
+<!--chapter:end:opinie.Rmd-->
+
+# Plany rozwoju
+
+W roku 2024 Cyfrowe Muzeum Pocztówek planuje realizację kilku kluczowych inicjatyw, które mają na celu dalszy rozwój i poszerzenie zakresu działalności platformy. Fundacja Bardzo Lokalne Historie skupia się na wzmocnieniu edukacyjnego i badawczego potencjału muzeum, równocześnie zwiększając dostępność i interaktywność dla użytkowników.
+
+### Nowe zasoby
+
+Pierwszym głównym celem na rok 2024 jest dalsza ekspansja zbiorów Cyfrowego Muzeum Pocztówek. Planuje się digitalizację kolejnych tysięcy pocztówek, z naciskiem na dokumentowanie wyglądu miejscowości z terenów dzisiejszej Polski sprzed 1939 roku. W szczególności uwzględniono regiony Pomorza i Kujaw, aby poszerzyć reprezentację geograficzną zbiorów i zwiększyć ich wartość historyczną dla badaczy i pasjonatów historii lokalnej.
+
+### Nowe narzędzia
+
+Kolejnym kluczowym przedsięwzięciem jest dalszy rozwój narzędzi interaktywnych i edukacyjnych dostępnych dla użytkowników. Fundacja planuje wprowadzenie nowych funkcji w platformie, takich jak bardziej zaawansowane możliwości przeglądania i wyszukiwania, które ułatwią użytkownikom odnalezienie interesujących ich pocztówek oraz zapewnią lepszy dostęp do kontekstowych informacji historycznych.
+
+### Społecznościowe opisywania zbiorów
+
+Równocześnie, w 2024 roku fundacja intensyfikuje prace nad rozwojem społecznościowego opisywania pocztówek. Nowe narzędzia i interfejsy użytkownika mają zachęcić społeczność do aktywnego uczestnictwa w opisywaniu i katalogowaniu zasobów muzealnych. Poprzez angażowanie wolontariuszy i uczniów w ten proces, muzeum staje się miejscem, gdzie lokalne społeczności mogą wzbogacać i dzielić się swoją wiedzą historyczną.
+
+### Sztuczna inteligencja
+
+Dodatkowo, planowane jest wdrożenie zaawansowanych technologii, takich jak rozpoznawanie obiektów na pocztówkach za pomocą sztucznej inteligencji. Ten projekt ma na celu automatyzację procesu katalogowania i opisywania zasobów, co przyspieszy pracę archiwistów i wolontariuszy oraz usprawni dostęp do informacji dla wszystkich użytkowników.
+
+Wszystkie te inicjatywy mają na celu wzmocnienie pozycji Cyfrowego Muzeum Pocztówek jako wiodącej platformy cyfrowego dziedzictwa kulturowego. Dzięki zaangażowaniu społeczności, innowacyjnym technologiom oraz dalszemu rozwojowi zbiorów, fundacja kontynuuje misję zachowania i promowania lokalnej historii dla przyszłych pokoleń.
+
+<!--chapter:end:plany.Rmd-->
+

@@ -1,0 +1,25 @@
+# Opinie użytkowników
+
+Anna K., nauczycielka historii:
+*Uwielbiam bogactwo dostępnych pocztówek z Pomorza i Kujaw, wykorzystuję je na lekcjach historii. Interfejs strony jest bardzo intuicyjny, nawet dla młodszych uczniów.*
+
+Marek J., lokalny pasjonat historii:
+*Jakość skanów jest znakomita, mogę zobaczyć każdy detal!*
+
+Piotr S., programista:
+*Fantastyczna inicjatywa z udostępnieniem API! Mogę tworzyć własne aplikacje oparte na zbiorach muzeum. Mam tylko nadzieję, że narzędzie do społecznościowego opisywania zostanie szybciej wdrożone, bo brakuje mi bardziej interaktywnej współpracy.*
+
+Kasia M., studentka historii:
+*IIIF naprawdę robi wrażenie, mogę dokładnie przyjrzeć się każdej pocztówce. Podoba mi się też, że mogę uczestniczyć w warsztatach online i korzystać z muzeum na moim telefonie.*
+
+Monika P., wolontariuszka:
+*Lubię zaangażowanie społeczności i możliwość dodawania opisów. Jednak moderacja nowych treści mogłaby być szybsza, bo czasem trzeba długo czekać na akceptację dodanych informacji.*
+
+Zofia K., kolekcjonerka pocztówek:
+*Jako kolekcjonerka doceniam wysoką jakość skanów i metadanych. Mam nadzieję, że więcej regionów zostanie równie dobrze udokumentowanych jak Pomorze i Kujawy. To naprawdę wspaniały projekt! Brakuje mi jednak lepszej wyszukiwarki na stronie, żeby łatwiej znaleźć konkretne pocztówki.*
+
+Ola W., studentka informatyki:
+*API otwiera mnóstwo możliwości i bardzo cenię sobie tę opcję. Jednak dokumentacja mogłaby być bardziej szczegółowa dla mniej doświadczonych programistów, co ułatwiłoby start z projektem.*
+
+Magdalena Z., graficzka
+*Cieszę się, że pocztówki są dostępne w domenie publicznej, to ciekawy zasób do tworzenia kolaży. Możliwość swobodnego korzystania z tych historycznych obrazów otwiera ogromne pole do twórczości artystycznej. Mogę bez ograniczeń łączyć różne elementy z różnych epok i regionów, tworząc unikalne dzieła sztuki. Dzięki wysokiej jakości skanów, detale są doskonale widoczne, co dodaje głębi i autentyczności moim projektom. Dodatkowo, świadomość, że moje prace opierają się na prawdziwych fragmentach historii, nadaje im dodatkowego znaczenia i wartości. Jestem wdzięczna fundacji za udostępnienie tych zasobów w tak przystępnej formie.*

@@ -1,0 +1,26 @@
+{
+    "id": "213EE920",
+    "path": "/cloud/project/book/rmd/statystyki_zbiorow.Rmd",
+    "project_path": "book/rmd/statystyki_zbiorow.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1721134768698.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,167",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1721136348,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721136348618,
+    "read_only": false,
+    "read_only_alternatives": []
+}

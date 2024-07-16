@@ -1,0 +1,48 @@
+bookdown::tufte_html_book:
+  split_by: none
+  toc: false
+bookdown::bs4_book:
+  theme:
+    primary: "#0d6efd"   
+    base_font: 
+      google: Sen
+    heading_font:
+      google:
+        family: Bitter
+        wght: 200
+    code_font:
+      google: 
+        # arguments to sass::font_google() 
+        family: DM Mono
+        local: false
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: true
+      before: null
+      after: null
+    toolbar:
+      position: fixed
+    edit : null
+    download: ["raport.pdf", "raport.epub"]
+    search:
+      engine: lunr # or fuse
+      # options to control/tune search engine behavior (for
+      # fuse.js, refer to https://fusejs.io/api/options.html)
+      options: null
+    fontsettings:
+      theme: night
+      family: serif
+      size: 2
+    sharing:
+      facebook: true
+      github: false
+      twitter: true
+      linkedin: false
+      weibo: false
+      instapaper: false
+      vk: false
+      whatsapp: false
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: false
