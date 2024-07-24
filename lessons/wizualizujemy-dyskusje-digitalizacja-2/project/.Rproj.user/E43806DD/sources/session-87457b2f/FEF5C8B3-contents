@@ -1,0 +1,70 @@
+# 1. importujemy CSV do ramki danych
+
+c <- read.csv('concordance.csv', fileEncoding = "UTF-8", stringsAsFactors = FALSE)
+
+# 2. upraszczamy nazwy kolumn
+
+names(c) <- c(
+  "lewyKontekst", "rezultat", "prawyKontekst", "interpretacja",
+  "nazwaWlasna", "relacjaZaleznosciowa", "lematNadrzednika", "izba",
+  "typ", "autor", "mowca", "przynaleznoscMowcy",
+  "rolaMowcy", "plecMowcy", "komisja", "data",
+  "timestamp", "rok", "ustroj", "numerKadencji",
+  "etykieta", "tytul", "sesja", "dzien",
+  "numer", "czesc"
+)
+
+# 3. instalujemy i dodajemy do środowiska bibliotekę genderizeR - pozwoli nam na wskazanie płci 
+# osób z kolumny autor
+
+#install.packages("gender")
+#install.packages('genderizeR')
+install.packages("devtools")
+devtools::install_github("kalimu/genderizeR")
+library(genderizeR)
+
+install.packages("dplyr")
+
+library(dplyr)
+
+n <- c %>% filter(!is.na(autor))
+
+n <- n$autor
+
+n <- n[325:370]
+
+n
+
+t1 <- findGivenNames(n, language="pl")
+
+t0
+
+
+authors <- c %>%
+  filter(!is.na(autor) & autor != "")
+
+authors <- authors$autor
+
+# są różnie podpisani
+names(table(authors))
+
+write.csv(authors, "authors.csv", row.names = FALSE)
+
+
+###########
+
+install.packages("wordcloud")
+#install.packages("tm")
+#install.packages("purrr")
+library(wordcloud)
+library(stopwords)
+#library(tm)
+#library(purrr)
+
+wd <- table(c$lematNadrzednika)
+
+wd
+
+wd <- wd %>% tm_map(names(wd), removeWords, stopwords("polish"))
+
+wordcloud(names(wd), wd)
