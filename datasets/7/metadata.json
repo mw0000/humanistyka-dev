@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "metadata": {
+    "dataset_information": {
+      "title": "Autorzy, książki, blurby wydawnictwa Czarne",
+      "description": "Dane opisujące relacje między autorami książek a autorami blurbów w publikacjach wydawnictwa Czarne.",
+      "creator": "mw0000",
+      "date": "2024-09-05",
+      "version": "1.0",
+      "source": "https://czarne.com.pl/"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "blurbs.csv",
+          "format": "text/csv",
+          "description": "Tabela zawiera kolumny: label (tytuł książki), target (autor/ka książki), source (autor blurba)",
+          "size": "225390"
+        },
+        {
+          "name": "blurbs.gexf",
+          "format": "application/xml",
+          "description": "Wstępnie przygotowany plik Gephi do analizy sieciowej.",
+          "size": "2694266"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna",
+      "license_uri": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "github": "https://github.com/mw0000/humanistyka-dev/tree/main/datasets/7",
+      "what_for": [
+        "analiza sieciowa",
+        "wizualizacja danych"
+      ]
+    }
+  }
+}
