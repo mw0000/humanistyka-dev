@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "16623d67058c1b5d6343d129186dce00"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "d97bd27664fc1bb622132277d86e409e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "fc97f466d57a5d4049b5878c499ce5a9"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "b8e97048ce11826f0961cbf3a8c34033"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1ea8317abae2e05fa2a65ed7bbff7ba7"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "c2e903290869c82a84f551863938ab08"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "b65672300ad7356875750945932de40b"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/instytut-digitalizacji",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/instytut-digitalizacji/index.html",
+        "type": "file",
+        "md5": "235210fb912c283a3a8c8ce37343ac4c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "7e647281bf90b16059e1ef25c2ad343f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/mapa.png",
+        "type": "file",
+        "md5": "67675d2b8a7b10f9ec1edd5dd37a02b3"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/mapa-md.png",
+        "type": "file",
+        "md5": "a731f73c3064a52c428650e78d40c299"
+    },
+    {
+        "path": "/media/posts/1/responsive/mapa-sm.png",
+        "type": "file",
+        "md5": "df86a8f27dc819f711bef45c435ab80d"
+    },
+    {
+        "path": "/media/posts/1/responsive/mapa-xs.png",
+        "type": "file",
+        "md5": "91e3284658794e93e0a73c35a4fe0338"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-2xl.jpg",
+        "type": "file",
+        "md5": "d7edf229f38ad24d4ea4e2c1978ce5f9"
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-lg.jpg",
+        "type": "file",
+        "md5": "d7edf229f38ad24d4ea4e2c1978ce5f9"
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-md.jpg",
+        "type": "file",
+        "md5": "9af97cae73d7c212eb2e3a75a43e283f"
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-sm.jpg",
+        "type": "file",
+        "md5": "6eb65f3f5a05684f20c6d3c614f04d1f"
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-xl.jpg",
+        "type": "file",
+        "md5": "d7edf229f38ad24d4ea4e2c1978ce5f9"
+    },
+    {
+        "path": "/media/website/responsive/skanowanie-xs.jpg",
+        "type": "file",
+        "md5": "7ebfeb8739ce328d200c2d54ebd26f64"
+    },
+    {
+        "path": "/media/website/skanowanie.jpg",
+        "type": "file",
+        "md5": "00a30bba52ef1cc9aa84c2b63239d1f2"
+    },
+    {
+        "path": "prelegenci.html",
+        "type": "file",
+        "md5": "97250b45edcfc1456a8d0bf6c3490c55"
+    },
+    {
+        "path": "program-konferencji.html",
+        "type": "file",
+        "md5": "34fd92c3f8be1e360b74db54034d2929"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "ceaf60fa55405c6e88ec5661ed431c3f"
+    }
+]
