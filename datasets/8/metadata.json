@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "metadata": {
+    "dataset_information": {
+      "title": "Muzeum Historii Polski na YouTube",
+      "description": "Dane o 349 filmach, publikowanych w latach 2006-2024 na kanale Muzeum Historii Polski na YouTube.",
+      "creator": "mw0000",
+      "date": "2024-10-16",
+      "version": "1.0",
+      "source": "https://www.youtube.com/@MuzeumHistoriiPolski"
+    },
+    "data_details": {
+      "contains": [
+        {
+          "name": "muzeum_historii_polski_yt.csv",
+          "format": "text/csv",
+          "description": "Kolumny: position, channelId, channelTitle, videoId, publishedAt, publishedAtSQL, videoTitle, videoDescription, tags, videoCategoryId, videoCategoryLabel, topicCategories, duration, durationSec, dimension,definition, caption, defaultLanguage, defaultLAudioLanguage, thumbnail_maxres, licensedContent, locationDescription, latitude, longitude, viewCount, likeCount, dislikeCount, favoriteCount, commentCount",
+          "size": "618704"
+        }
+      ]
+    },
+    "usage_information": {
+      "license": "Domena publiczna",
+      "license_uri": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "github": "https://github.com/mw0000/humanistyka-dev/tree/main/datasets/8",
+      "what_for": [
+        "przetwarzanie języka naturalnego",
+        "wizualizacja danych"
+      ]
+    }
+  }
+}
