@@ -1,0 +1,129 @@
+<div class="mw-content-ltr mw-parser-output" lang="pl" dir="ltr"><table class="infobox">
+<caption class="naglowek"><style data-mw-deduplicate="TemplateStyles:r65781301">.mw-parser-output .infobox>caption>.iboxt-flex{display:flex;justify-content:flex-start;align-items:center;gap:4px}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-ikona{flex-grow:0;flex-shrink:0;font-size:7px;max-width:40px;overflow:hidden}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-tekst{flex-grow:1}.mw-parser-output .infobox>caption .iboxt-1{font-weight:bold}.mw-parser-output .infobox>caption .iboxt-2{font-style:italic}.mw-parser-output .infobox>caption .iboxt-3{font-style:italic;font-size:90%}</style><div class="iboxt-1">Aniela Tułodziecka</div>
+</caption>
+<tbody><tr class="grafika iboxs">
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/Plik:Aniela_Tu%C5%82odziecka.jpg" class="mw-file-description"><img alt="Ilustracja" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aniela_Tu%C5%82odziecka.jpg/162px-Aniela_Tu%C5%82odziecka.jpg" decoding="async" width="162" height="240" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aniela_Tu%C5%82odziecka.jpg/244px-Aniela_Tu%C5%82odziecka.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aniela_Tu%C5%82odziecka.jpg/325px-Aniela_Tu%C5%82odziecka.jpg 2x" data-file-width="920" data-file-height="1358" /></a></span>
+</td></tr>
+<tr>
+<th>Data i&#160;miejsce urodzenia
+</th>
+<td>
+<p><span style="white-space:nowrap">28 stycznia 1853</span> <br /><a href="/wiki/Osiecz_Wielki" title="Osiecz Wielki">Osiecz Wielki</a> 
+</p>
+</td></tr>
+<tr>
+<th>Data i&#160;miejsce śmierci
+</th>
+<td>
+<p><span style="white-space:nowrap">11 października 1932</span> <br /><a href="/wiki/Pozna%C5%84" title="Poznań">Poznań</a> 
+</p>
+</td></tr>
+<tr>
+<th>Narodowość
+</th>
+<td>
+<p>polska
+</p>
+</td></tr>
+<tr class="grafika iboxs">
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/Plik:Aniela_Tu%C5%82odziecka_podpis.jpg" class="mw-file-description"><img alt="Faksymile" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aniela_Tu%C5%82odziecka_podpis.jpg/130px-Aniela_Tu%C5%82odziecka_podpis.jpg" decoding="async" width="130" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aniela_Tu%C5%82odziecka_podpis.jpg/195px-Aniela_Tu%C5%82odziecka_podpis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aniela_Tu%C5%82odziecka_podpis.jpg/260px-Aniela_Tu%C5%82odziecka_podpis.jpg 2x" data-file-width="831" data-file-height="320" /></a></span>
+</td></tr>
+<tr>
+<td colspan="2" style="background:#EAECF0; color:black; text-align:center; font-weight:bold; border:1px solid #aaa;">Odznaczenia
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/Order_Odrodzenia_Polski" title="Krzyż Oficerski Orderu Odrodzenia Polski"><img alt="Krzyż Oficerski Orderu Odrodzenia Polski" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/POL_Polonia_Restituta_Oficerski_BAR.svg/40px-POL_Polonia_Restituta_Oficerski_BAR.svg.png" decoding="async" width="40" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/POL_Polonia_Restituta_Oficerski_BAR.svg/60px-POL_Polonia_Restituta_Oficerski_BAR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/POL_Polonia_Restituta_Oficerski_BAR.svg/80px-POL_Polonia_Restituta_Oficerski_BAR.svg.png 2x" data-file-width="218" data-file-height="60" /></a></span> <span class="mw-image-border" typeof="mw:File"><a href="/wiki/Order_Odrodzenia_Polski" title="Krzyż Kawalerski Orderu Odrodzenia Polski"><img alt="Krzyż Kawalerski Orderu Odrodzenia Polski" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/POL_Polonia_Restituta_Kawalerski_BAR.svg/40px-POL_Polonia_Restituta_Kawalerski_BAR.svg.png" decoding="async" width="40" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/POL_Polonia_Restituta_Kawalerski_BAR.svg/60px-POL_Polonia_Restituta_Kawalerski_BAR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/POL_Polonia_Restituta_Kawalerski_BAR.svg/80px-POL_Polonia_Restituta_Kawalerski_BAR.svg.png 2x" data-file-width="218" data-file-height="60" /></a></span>
+</td></tr>
+
+<tr class="noprint plainlinks" style="border-top:1px solid var(--border-color-base, #a2a9b1); text-align:center;">
+<td colspan="2" style="padding:0;">
+<table cellpadding="4" cellspacing="0" style="width:100%; margin:0px; background:var(--background-color-base, #fff); color:inherit">
+
+<tbody><tr>
+<td style="vertical-align:middle; width:30px;"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Aniela_Tu%C5%82odziecka" title="Commons"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" decoding="async" width="21" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>
+</td>
+<td style="vertical-align:middle;"><a href="https://commons.wikimedia.org/wiki/Aniela_Tu%C5%82odziecka" class="extiw" title="commons:Aniela Tułodziecka">Multimedia w Wikimedia Commons</a>
+</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
+<p><b>Aniela Tułodziecka</b> (ur. <a href="/wiki/28_stycznia" title="28 stycznia">28 stycznia</a> <a href="/wiki/1853" title="1853">1853</a> w <a href="/wiki/Osiecz_Wielki" title="Osiecz Wielki">Osieczu Wielkim</a>, zm. <a href="/wiki/11_pa%C5%BAdziernika" title="11 października">11 października</a> <a href="/wiki/1932" title="1932">1932</a> w <a href="/wiki/Pozna%C5%84" title="Poznań">Poznaniu</a>) – działaczka społeczna i oświatowa, wieloletnia przewodnicząca Towarzystwa „Warta”.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Życiorys"><span id=".C5.BByciorys"></span>Życiorys</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=1" title="Edytuj sekcję: Życiorys" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=1" title="Edytuj kod źródłowy sekcji: Życiorys"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Była córką zarządcy Dąbrowy Starej i późniejszego dzierżawcy Osiecza Wielkiego – Antoniego i jego żony Pelagii z domu Lipińskiej<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>. W 1866 zamieszkała w Poznaniu i kształciła się na pensji Antoniny Estkowskiej. W okresie nasilenia akcji <a href="/wiki/Germanizacja_Polak%C3%B3w_w_okresie_zabor%C3%B3w" title="Germanizacja Polaków w okresie zaborów">germanizacyjnej</a> uczestniczyła w tajnym nauczaniu języka polskiego. Zainicjowała powstanie 29 maja 1894 w Poznaniu Towarzystwa Przyjaciół Wzajemnego Pouczania się i Opieki nad Dziećmi „Warta” i przez kilkadziesiąt lat koordynowała jego działalność, zarówno jawną (obejmującą głównie opiekę nad ubogimi i upośledzonymi dziećmi z Poznania), jak i tajną, polegającą na kształceniu polskich kadr pedagogicznych, opracowywaniu programów nauczania, redakcji i wydawaniu polskich podręczników<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3">[3]</a></sup><sup id="cite_ref-:6_4-0" class="reference"><a href="#cite_note-:6-4">[4]</a></sup>. Tułodziecka zorganizowała także bibliotekę pedagogiczną oraz prowadziła kursy dla rodziców, a w 1899 uruchomiła przytułek dla dzieci<sup id="cite_ref-:5_5-0" class="reference"><a href="#cite_note-:5-5">[5]</a></sup>.
+</p><p>Reprezentowała wielkopolskie środowisko kobiece na zjazdach kobiet z trzech zaborów. Na wiec, który zorganizowała 10 maja 1908 roku, jako sprzeciw wobec zaostrzeniu ustaw zaborcy dotyczących języka polskiego i wywłaszczania Polaków, przybyło około 2000 kobiet z różnych regionów; na wiecu w 1912 pojawiło się już około 5000 kobiet<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>. Wsparcie dla wieców przesyłali Tułodzieckiej listownie m.in. <a href="/wiki/Henryk_Sienkiewicz" title="Henryk Sienkiewicz">Henryk Sienkiewicz</a> i <a href="/wiki/Eliza_Orzeszkowa" title="Eliza Orzeszkowa">Eliza Orzeszkowa</a><sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>.
+</p><p>Wielokrotnie była celem represji władz niemieckich, m.in. w 1913 odbyła 12-dniową karę więzienia (2–14 czerwca 1913)<sup id="cite_ref-:1_7-0" class="reference"><a href="#cite_note-:1-7">[7]</a></sup>. Kara została wymierzona za kursy dla rodziców: uznano je za publiczne zebranie w języku polskim; pierwotnie karą była grzywna, której Tułodziecka nie zapłaciła<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3">[3]</a></sup>.
+</p><p>W 1920 Towarzystwo „Warta” przekazało swoje zbiory książkowe i pomoce naukowe poznańskim szkołom powszechnym. W latach 20. Aniela Tułodziecka pełniła funkcję pomocnika inspektora szkolnego w Poznaniu. W uznaniu zasług została mianowana honorowym inspektorem szkolnym. W 1927 zrezygnowała z funkcji przewodniczącej „Warty”<sup id="cite_ref-:6_4-1" class="reference"><a href="#cite_note-:6-4">[4]</a></sup>.
+</p><p>Społecznie działała w Wielkopolsce doby zaborów także siostra Anieli, <a href="/wiki/Zofia_Tu%C5%82odziecka" title="Zofia Tułodziecka">Zofia Tułodziecka</a>. Z kolei dwaj starsi bracia brali udział w powstaniu styczniowym (jeden zginął), a ich ojciec w 1863 został aresztowany i uwięziony na 6 tygodni za ukrywanie powstańców<sup id="cite_ref-:2_3-2" class="reference"><a href="#cite_note-:2-3">[3]</a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Ordery_i_odznaczenia">Ordery i odznaczenia</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=2" title="Edytuj sekcję: Ordery i odznaczenia" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=2" title="Edytuj kod źródłowy sekcji: Ordery i odznaczenia"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Krzyż Oficerski <a href="/wiki/Order_Odrodzenia_Polski" title="Order Odrodzenia Polski">Orderu Odrodzenia Polski</a> (27 listopada 1929)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>Krzyż Kawalerski <a href="/wiki/Order_Odrodzenia_Polski" title="Order Odrodzenia Polski">Orderu Odrodzenia Polski</a> (2 maja 1923)<sup id="cite_ref-:4_9-0" class="reference"><a href="#cite_note-:4-9">[9]</a></sup></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="W_kulturze">W kulturze</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=3" title="Edytuj sekcję: W kulturze" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=3" title="Edytuj kod źródłowy sekcji: W kulturze"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Jest jedną z bohaterek polskiego serialu historycznego <i><a href="/wiki/Najd%C5%82u%C5%BCsza_wojna_nowoczesnej_Europy" title="Najdłuższa wojna nowoczesnej Europy">Najdłuższa wojna nowoczesnej Europy</a></i> w reżyserii <a href="/wiki/Jerzy_Sztwiertnia" title="Jerzy Sztwiertnia">Jerzego Sztwiertni</a>. Odtwórczynią jej roli była <a href="/wiki/El%C5%BCbieta_K%C4%99pi%C5%84ska" title="Elżbieta Kępińska">Elżbieta Kępińska</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Przypisy">Przypisy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=4" title="Edytuj sekcję: Przypisy" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=4" title="Edytuj kod źródłowy sekcji: Przypisy"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="do-not-make-smaller refsection"><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://images92.fotosik.pl/680/e9c73899660f4ba4.png">https://images92.fotosik.pl/680/e9c73899660f4ba4.png</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://kulturaupodstaw.pl/siostry-tulodzieckie/"><i>Siostry Tułodzieckie</i></a> [online], Kultura u Podstaw, 26 stycznia 2021<span class="accessdate"> [dostęp 2021-12-16]</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft.date=2021-01-26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Siostry+Tu%C5%82odzieckie&amp;rft_id=https%3A%2F%2Fkulturaupodstaw.pl%2Fsiostry-tulodzieckie%2F" style="display:none">&#160;</span> <span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_3-0">a</a></sup> <sup><a href="#cite_ref-:2_3-1">b</a></sup> <sup><a href="#cite_ref-:2_3-2">c</a></sup></span> <span class="reference-text"><cite class="citation journal"><span class="cite-name-before"><span class="cite-name-full">Violetta</span><span class="cite-name-initials" title="Violetta" style="display:none">V.</span>&#160;</span><span class="cite-lastname">Szostak</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Violetta</span><span class="cite-name-initials" title="Violetta">V.</span></span>, <a rel="nofollow" class="external text" href="http://poznan.wyborcza.pl/poznan/7,105531,22338105,kongres-kobiet-przypomni-panny-tulodzieckie-rozczochrane-feministki.html?disableRedirects=true"><i>Kongres Kobiet przypomni Panny Tułodzieckie. „Wołają na nas rozczochrane feministki”. Sto lat temu organizowały pierwsze wiece kobiet w Poznaniu</i></a>, „Gazeta wyborcza”, 8 września 2017<span class="accessdate"> [dostęp 2019-03-25]</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=2017-09-08&amp;rft.jtitle=Gazeta+wyborcza&amp;rft.atitle=Kongres+Kobiet+przypomni+Panny+Tu%C5%82odzieckie.+%E2%80%9EWo%C5%82aj%C4%85+na+nas+rozczochrane+feministki%E2%80%9D.+Sto+lat+temu+organizowa%C5%82y+pierwsze+wiece+kobiet+w+Poznaniu&amp;rft_id=http%3A%2F%2Fpoznan.wyborcza.pl%2Fpoznan%2F7%2C105531%2C22338105%2Ckongres-kobiet-przypomni-panny-tulodzieckie-rozczochrane-feministki.html%3FdisableRedirects%3Dtrue" style="display:none">&#160;</span>.</cite></span>
+</li>
+<li id="cite_note-:6-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_4-0">a</a></sup> <sup><a href="#cite_ref-:6_4-1">b</a></sup></span> <span class="reference-text"><cite class="citation web">Paweł&#32;Cieliczko&#58;&#32;<a rel="nofollow" class="external text" href="https://www.miastopoznaj.pl/blogi/z-poznania/6592-anna-tulodziecka-matki-chrzestne-powstania-wielkopolskiego">Aniela Tułodziecka - Matki chrzestne powstania wielkopolskiego</a>.&#32;Miasto poznaj.&#32;[dostęp 2019-04-12].</cite></span>
+</li>
+<li id="cite_note-:5-5"><span class="mw-cite-backlink"><a href="#cite_ref-:5_5-0">↑</a></span> <span class="reference-text"><cite class="citation journal">„Wielkopolanin”,&#32;8 października 1899.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wielkopolanin&amp;rft.date=8+pa%C5%BAdziernika+1899&amp;rft_id=http%3A%2F%2Fwww.wbc.poznan.pl%2Fdlibra%2Fapplet%3Fmimetype%3Dimage%252Fx.djvu%26sec%3Dfalse%26handler%3Ddjvu_html5%26content_url%3D%252FContent%252F442772%252Findex.djvu"><span style="display: none;">&#160;</span></span><span class="problemy" aria-hidden="true" data-nosnippet="">brak numeru strony</span></span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_6-0">a</a></sup> <sup><a href="#cite_ref-:0_6-1">b</a></sup></span> <span class="reference-text"><cite class="citation journal"><span class="cite-name-before"><span class="cite-name-full">Grażyna</span><span class="cite-name-initials" title="Grażyna" style="display:none">G.</span>&#160;</span><span class="cite-lastname">Wyder</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Grażyna</span><span class="cite-name-initials" title="Grażyna">G.</span></span>, <a rel="nofollow" class="external text" href="http://www.roczniklubuski.uz.zgora.pl/wydania/tom_35/Rocznik_Lubuski_35_1.pdf"><i>Działalność edukacyjna kobiet–Polek w Wielkim Księstwie Poznańskim w drugiej połowie XIX wieku jako czynnik kształtowania świadomości narodowej</i></a>, „Rocznik Lubuski”, 35 (1), 2009<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=2009&amp;rft.atitle=Dzia%C5%82alno%C5%9B%C4%87+edukacyjna+kobiet%E2%80%93Polek+w+Wielkim+Ksi%C4%99stwie+Pozna%C5%84skim+w+drugiej+po%C5%82owie+XIX+wieku+jako+czynnik+kszta%C5%82towania+%C5%9Bwiadomo%C5%9Bci+narodowej&amp;rft.jtitle=Rocznik+Lubuski&amp;rft.volume=35&amp;rft.edition=1&amp;rft_id=http%3A%2F%2Fwww.roczniklubuski.uz.zgora.pl%2Fwydania%2Ftom_35%2FRocznik_Lubuski_35_1.pdf" style="display:none">&#160;</span>.</cite><span class="problemy" aria-hidden="true" data-nosnippet=""> Brak numerów stron w czasopiśmie</span></span>
+</li>
+<li id="cite_note-:1-7"><span class="mw-cite-backlink"><a href="#cite_ref-:1_7-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wbc.poznan.pl/dlibra/docmetadata?id=133639&amp;from=&amp;dirids=1&amp;ver_id=&amp;lp=2&amp;QI=">Kronika Miasta Poznania</a>, s. 119–126.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://monitorpolski.gov.pl/M1929274063001.pdf">M.P. z 1929 r. nr 274, poz. 630</a> „za zasługi na polu tajnej pracy oświatowej”.</span>
+</li>
+<li id="cite_note-:4-9"><span class="mw-cite-backlink"><a href="#cite_ref-:4_9-0">↑</a></span> <span class="reference-text"><cite class="citation book"><i><a rel="nofollow" class="external text" href="http://kpbc.ukw.edu.pl/dlibra/plain-content?id=87843">Order Odrodzenia Polski. Trzechlecie pierwszej kapituły 1921–1924</a></i>.&#32;Warszawa&#58;&#32;<a href="/wiki/Prezydium_Rady_Ministr%C3%B3w" title="Prezydium Rady Ministrów">Prezydium Rady Ministrów</a>,&#32;1926,&#32;s.&#32;37.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Order+Odrodzenia+Polski.+Trzechlecie+pierwszej+kapitu%C5%82y+1921%E2%80%931924&amp;rft.date=1926&amp;rft.pub=%5B%5BPrezydium+Rady+Ministr%C3%B3w%5D%5D&amp;rft.place=Warszawa&amp;rft.pages=37&amp;rft_id=http%3A%2F%2Fkpbc.ukw.edu.pl%2Fdlibra%2Fplain-content%3Fid%3D87843"></span></cite></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Bibliografia">Bibliografia</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=5" title="Edytuj sekcję: Bibliografia" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=5" title="Edytuj kod źródłowy sekcji: Bibliografia"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Ludwik_J%C3%B3zef_Gomolec" title="Ludwik Józef Gomolec">Ludwik Gomolec</a>, <i>Aniela Tułodziecka</i>, [w:] <i>Wielkopolski słownik biograficzny</i>, Warszawa-Poznań 1981, <a href="/wiki/Specjalna:Ksi%C4%85%C5%BCki/8301027223" title="Specjalna:Książki/8301027223">ISBN&#160;<span class="isbn">83-01-02722-3</span></a>.</li>
+<li><a href="/wiki/Witold_Jak%C3%B3bczyk" title="Witold Jakóbczyk">Witold Jakóbczyk</a>, <i>Przetrwać nad Wartą 1815–1914</i>, 55. część cyklu „Dzieje narodu i państwa polskiego”, Warszawa 1989.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Linki_zewnętrzne"><span id="Linki_zewn.C4.99trzne"></span>Linki zewnętrzne</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;veaction=edit&amp;section=6" title="Edytuj sekcję: Linki zewnętrzne" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Aniela_Tu%C5%82odziecka&amp;action=edit&amp;section=6" title="Edytuj kod źródłowy sekcji: Linki zewnętrzne"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i><a rel="nofollow" class="external text" href="https://polona.pl/item/dziennik-wiezienny-anieli-tulodzieckiej,Njc4NzAwMzM">Dziennik więzienny Anieli Tułodzieckiej</a></i> w bibliotece <a href="/wiki/Polona" title="Polona">Polona</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r74016753">.mw-parser-output #normdaten>div+div{margin-top:0.5em}.mw-parser-output #normdaten>div>div{background:var(--background-color-neutral,#eaecf0);padding:.2em .5em}.mw-parser-output #normdaten ul{margin:0;padding:0}.mw-parser-output #normdaten ul li:first-child{padding-left:.5em;border-left:1px solid var(--border-color-base,#a2a9b1)}</style>
+<div id="normdaten" class="catlinks"><div class="normdaten-typ-p"><div><a href="/wiki/Kontrola_autorytatywna" title="Kontrola autorytatywna">Kontrola autorytatywna</a>&#160;(<span class="description">osoba</span>):</div><ul><li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000118963487">0000000118963487</a></span></li><li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://viaf.org/viaf/170059984">170059984</a></span></li><li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://lccn.loc.gov/no2011059102">no2011059102</a></span></li><li><a href="/wiki/Biblioteka_Narodowa_(Warszawa)" title="Biblioteka Narodowa (Warszawa)">PLWABN</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="https://dbn.bn.org.pl/descriptor-details/9810686625105606">9810686625105606</a></span></li><li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202020209201">n2020209201</a></span></li></ul></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐bfb7464d7‐gvpf8
+Cached time: 20241107151144
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.283 seconds
+Real time usage: 0.413 seconds
+Preprocessor visited node count: 2936/1000000
+Post‐expand include size: 22689/2097152 bytes
+Template argument size: 6091/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10165/5000000 bytes
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 4051986/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  380.338      1 -total
+ 38.50%  146.439      1 Szablon:Biogram_infobox
+ 32.59%  123.935      1 Szablon:Kontrola_autorytatywna
+ 24.91%   94.734      1 Szablon:Przypisy
+ 13.43%   51.096      5 Szablon:Infobox_projekt
+ 13.33%   50.711      3 Szablon:Cytuj
+ 12.44%   47.304      2 Szablon:Pierwszy_niepusty
+  7.71%   29.330      1 Szablon:Infobox_tytuł
+  3.61%   13.739      2 Szablon:Infobox_data_i_miejsce
+  3.54%   13.457      2 Szablon:Infobox_grafika
+-->
+
+<!-- Saved in parser cache with key plwiki:pcache:idhash:116937-0!canonical and timestamp 20241107151144 and revision id 72667043. Rendering was triggered because: unknown
+ -->
+</div>

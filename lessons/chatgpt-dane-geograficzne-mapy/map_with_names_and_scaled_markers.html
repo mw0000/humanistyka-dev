@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_78749d3ef73960769cf5734b11f0742f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_78749d3ef73960769cf5734b11f0742f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_78749d3ef73960769cf5734b11f0742f = L.map(
+                "map_78749d3ef73960769cf5734b11f0742f",
+                {
+                    center: [52.06786410999999, 21.31296969998388],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ff586013c70cb3a44fcfda4363217e7d = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+            var circle_marker_c988b415b41d1c717a4cf13a73d4c8f7 = L.circleMarker(
+                [46.5367739, 7.9625907],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_5073b4782a920ce2f951aa063bf10499 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4009d9450f6261397f44b4ed445cad55 = $(`<div id="html_4009d9450f6261397f44b4ed445cad55" style="width: 100.0%; height: 100.0%;">Name: Jungfrau, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Berno, 3801, Szwajcaria<br>Count: 1</div>`)[0];
+            popup_5073b4782a920ce2f951aa063bf10499.setContent(html_4009d9450f6261397f44b4ed445cad55);
+        
+
+        circle_marker_c988b415b41d1c717a4cf13a73d4c8f7.bindPopup(popup_5073b4782a920ce2f951aa063bf10499)
+        ;
+
+        
+    
+    
+            var circle_marker_7e16e2524a8e29da03244acc455c6e22 = L.circleMarker(
+                [46.6855231, 7.8585139],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_9f5abd29986f9f5edd7793102cf054f2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d9f8d6a93c5988111bdff96eca1d7db9 = $(`<div id="html_d9f8d6a93c5988111bdff96eca1d7db9" style="width: 100.0%; height: 100.0%;">Name: Interlaken, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Berno, 3800, Szwajcaria<br>Count: 1</div>`)[0];
+            popup_9f5abd29986f9f5edd7793102cf054f2.setContent(html_d9f8d6a93c5988111bdff96eca1d7db9);
+        
+
+        circle_marker_7e16e2524a8e29da03244acc455c6e22.bindPopup(popup_9f5abd29986f9f5edd7793102cf054f2)
+        ;
+
+        
+    
+    
+            var circle_marker_eeb8d941aed9afdb4d763e17de272464 = L.circleMarker(
+                [46.7985624, 8.2319736],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_56a93e59dc9c0b559e628f887f4c183d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3daaa64fb75ee99d473ed32f398a5e86 = $(`<div id="html_3daaa64fb75ee99d473ed32f398a5e86" style="width: 100.0%; height: 100.0%;">Name: Szwajcaria<br>Count: 1</div>`)[0];
+            popup_56a93e59dc9c0b559e628f887f4c183d.setContent(html_3daaa64fb75ee99d473ed32f398a5e86);
+        
+
+        circle_marker_eeb8d941aed9afdb4d763e17de272464.bindPopup(popup_56a93e59dc9c0b559e628f887f4c183d)
+        ;
+
+        
+    
+    
+            var circle_marker_062b39a2a40a27c7333c41b30c4cec9b = L.circleMarker(
+                [47.2272484, 8.8156217],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_52a7f52b1d5c4a5e1a5b8282767a0024 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dac1a7703ee87967c6e938a553c6c618 = $(`<div id="html_dac1a7703ee87967c6e938a553c6c618" style="width: 100.0%; height: 100.0%;">Name: Muzeum Polskie w Rapperswilu, Hintergasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Szwajcaria<br>Count: 1</div>`)[0];
+            popup_52a7f52b1d5c4a5e1a5b8282767a0024.setContent(html_dac1a7703ee87967c6e938a553c6c618);
+        
+
+        circle_marker_062b39a2a40a27c7333c41b30c4cec9b.bindPopup(popup_52a7f52b1d5c4a5e1a5b8282767a0024)
+        ;
+
+        
+    
+    
+            var circle_marker_97b2715cd326bd00f7ff3ee609e3576e = L.circleMarker(
+                [47.3723941, 8.5423328],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_4355b9937214e224a8c034c0ee2682c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bed4e75fc8b4667fe4c93bb3d1efdd51 = $(`<div id="html_bed4e75fc8b4667fe4c93bb3d1efdd51" style="width: 100.0%; height: 100.0%;">Name: Zurych, Bezirk Zürich, Zurych, Szwajcaria<br>Count: 1</div>`)[0];
+            popup_4355b9937214e224a8c034c0ee2682c3.setContent(html_bed4e75fc8b4667fe4c93bb3d1efdd51);
+        
+
+        circle_marker_97b2715cd326bd00f7ff3ee609e3576e.bindPopup(popup_4355b9937214e224a8c034c0ee2682c3)
+        ;
+
+        
+    
+    
+            var circle_marker_362319853c863802b18c7979b0707720 = L.circleMarker(
+                [47.6778348, 8.6153284],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_bf799e65cdf1cb0577846f98f855178d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ec7e405428102b9af2840c3169725272 = $(`<div id="html_ec7e405428102b9af2840c3169725272" style="width: 100.0%; height: 100.0%;">Name: Rheinfall, Rheinfall Rundweg, Laufen-Uhwiesen, Bezirk Andelfingen, Zurych, 8248, Szwajcaria<br>Count: 1</div>`)[0];
+            popup_bf799e65cdf1cb0577846f98f855178d.setContent(html_ec7e405428102b9af2840c3169725272);
+        
+
+        circle_marker_362319853c863802b18c7979b0707720.bindPopup(popup_bf799e65cdf1cb0577846f98f855178d)
+        ;
+
+        
+    
+    
+            var circle_marker_2f9e1fe1c1550124b66faec91ebb3348 = L.circleMarker(
+                [49.841952, 24.0315921],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_0b003942ff07a5428ac83d9dfd35feb1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_969aabbc946e050ae008a974b7ca0f57 = $(`<div id="html_969aabbc946e050ae008a974b7ca0f57" style="width: 100.0%; height: 100.0%;">Name: Lwów, rejon halicki, Rada Miejska Lwowa, Obwód lwowski, Ukraina<br>Count: 1</div>`)[0];
+            popup_0b003942ff07a5428ac83d9dfd35feb1.setContent(html_969aabbc946e050ae008a974b7ca0f57);
+        
+
+        circle_marker_2f9e1fe1c1550124b66faec91ebb3348.bindPopup(popup_0b003942ff07a5428ac83d9dfd35feb1)
+        ;
+
+        
+    
+    
+            var circle_marker_bf774cc6f43177addafd019df7fc49a8 = L.circleMarker(
+                [50.04691015, 19.9970637622827],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_6fec82d3003dd4f021634e82f3c98cbb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_76d0c1101192b9525a6467ca29ef9360 = $(`<div id="html_76d0c1101192b9525a6467ca29ef9360" style="width: 100.0%; height: 100.0%;">Name: Kraków, województwo małopolskie, Polska<br>Count: 5</div>`)[0];
+            popup_6fec82d3003dd4f021634e82f3c98cbb.setContent(html_76d0c1101192b9525a6467ca29ef9360);
+        
+
+        circle_marker_bf774cc6f43177addafd019df7fc49a8.bindPopup(popup_6fec82d3003dd4f021634e82f3c98cbb)
+        ;
+
+        
+    
+    
+            var circle_marker_8628a07126703dc104eab68cee27c4de = L.circleMarker(
+                [50.1704678, 21.2309832],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_66406a8f40c754b2f875d4b0a454a355 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0dd9c816e51c439bcf663a2288e2e14b = $(`<div id="html_0dd9c816e51c439bcf663a2288e2e14b" style="width: 100.0%; height: 100.0%;">Name: Sybir, gmina Radomyśl Wielki, powiat mielecki, województwo podkarpackie, 39-312, Polska<br>Count: 1</div>`)[0];
+            popup_66406a8f40c754b2f875d4b0a454a355.setContent(html_0dd9c816e51c439bcf663a2288e2e14b);
+        
+
+        circle_marker_8628a07126703dc104eab68cee27c4de.bindPopup(popup_66406a8f40c754b2f875d4b0a454a355)
+        ;
+
+        
+    
+    
+            var circle_marker_29de60eec40a61e7178314eb7b2e6578 = L.circleMarker(
+                [52.0977181, 19.0258159],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_ed05ddb94ec6114abe180a85eefd56e6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9ec3125f22d2ef6dc35d7f4fb79ea252 = $(`<div id="html_9ec3125f22d2ef6dc35d7f4fb79ea252" style="width: 100.0%; height: 100.0%;">Name: Polska<br>Count: 1</div>`)[0];
+            popup_ed05ddb94ec6114abe180a85eefd56e6.setContent(html_9ec3125f22d2ef6dc35d7f4fb79ea252);
+        
+
+        circle_marker_29de60eec40a61e7178314eb7b2e6578.bindPopup(popup_ed05ddb94ec6114abe180a85eefd56e6)
+        ;
+
+        
+    
+    
+            var circle_marker_44963bcff0adc44e3179f7e182a05d6f = L.circleMarker(
+                [52.2337172, 21.0714111288323],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 45, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_543cacafd3ecd6a66b981561cb4752a7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b92a4caf29849193f52f56b55a9b5ceb = $(`<div id="html_b92a4caf29849193f52f56b55a9b5ceb" style="width: 100.0%; height: 100.0%;">Name: Warszawa, województwo mazowieckie, Polska<br>Count: 9</div>`)[0];
+            popup_543cacafd3ecd6a66b981561cb4752a7.setContent(html_b92a4caf29849193f52f56b55a9b5ceb);
+        
+
+        circle_marker_44963bcff0adc44e3179f7e182a05d6f.bindPopup(popup_543cacafd3ecd6a66b981561cb4752a7)
+        ;
+
+        
+    
+    
+            var circle_marker_550702d1388c38f136b0375c56e806be = L.circleMarker(
+                [52.3942261, 64.0766537],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_bc4acc3cac8d32615d9ba20971dbc895 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ed95adff74067080e0143bebb3a84e18 = $(`<div id="html_ed95adff74067080e0143bebb3a84e18" style="width: 100.0%; height: 100.0%;">Name: Карл Маркса, Аманкарагай, Аулиекольский район, Костанайская область, Kazachstan<br>Count: 1</div>`)[0];
+            popup_bc4acc3cac8d32615d9ba20971dbc895.setContent(html_ed95adff74067080e0143bebb3a84e18);
+        
+
+        circle_marker_550702d1388c38f136b0375c56e806be.bindPopup(popup_bc4acc3cac8d32615d9ba20971dbc895)
+        ;
+
+        
+    
+    
+            var circle_marker_632f14ea06979b1054dddb343095191d = L.circleMarker(
+                [53.18243065, 22.0521838178088],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_8627950b2f628645c1e814b2d6405213 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b97ae6d4c6b24fb55f2a4fd5afb4e3f4 = $(`<div id="html_b97ae6d4c6b24fb55f2a4fd5afb4e3f4" style="width: 100.0%; height: 100.0%;">Name: Łomża, województwo podlaskie, Polska<br>Count: 1</div>`)[0];
+            popup_8627950b2f628645c1e814b2d6405213.setContent(html_b97ae6d4c6b24fb55f2a4fd5afb4e3f4);
+        
+
+        circle_marker_632f14ea06979b1054dddb343095191d.bindPopup(popup_8627950b2f628645c1e814b2d6405213)
+        ;
+
+        
+    
+    
+            var circle_marker_c67a6a7de5d01922b24748894baac56b = L.circleMarker(
+                [53.2668455, 22.8525787],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_ab7bf2bb269802ba34d07c6b701e902a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_58a1fde6ec5ca2ce223501c0adf14148 = $(`<div id="html_58a1fde6ec5ca2ce223501c0adf14148" style="width: 100.0%; height: 100.0%;">Name: województwo podlaskie, Polska<br>Count: 2</div>`)[0];
+            popup_ab7bf2bb269802ba34d07c6b701e902a.setContent(html_58a1fde6ec5ca2ce223501c0adf14148);
+        
+
+        circle_marker_c67a6a7de5d01922b24748894baac56b.bindPopup(popup_ab7bf2bb269802ba34d07c6b701e902a)
+        ;
+
+        
+    
+    
+            var circle_marker_4642e7da46ccf260f552769ca9442af5 = L.circleMarker(
+                [53.6834599, 23.8342648],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_f9f46c1e68bf467778f8e87ff6b82954 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5148e42a30b5caa06bc614de11068a0e = $(`<div id="html_5148e42a30b5caa06bc614de11068a0e" style="width: 100.0%; height: 100.0%;">Name: Grodno, obwód grodzieński, Białoruś<br>Count: 8</div>`)[0];
+            popup_f9f46c1e68bf467778f8e87ff6b82954.setContent(html_5148e42a30b5caa06bc614de11068a0e);
+        
+
+        circle_marker_4642e7da46ccf260f552769ca9442af5.bindPopup(popup_f9f46c1e68bf467778f8e87ff6b82954)
+        ;
+
+        
+    
+    
+            var circle_marker_13021558fb52b8bf0d5138254708d3b9 = L.circleMarker(
+                [54.0133215, 22.7288267],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_31696dfa284f64148695e748680c7950 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fba96358451e6f91e0ae94035aca01f8 = $(`<div id="html_fba96358451e6f91e0ae94035aca01f8" style="width: 100.0%; height: 100.0%;">Name: Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br>Count: 5</div>`)[0];
+            popup_31696dfa284f64148695e748680c7950.setContent(html_fba96358451e6f91e0ae94035aca01f8);
+        
+
+        circle_marker_13021558fb52b8bf0d5138254708d3b9.bindPopup(popup_31696dfa284f64148695e748680c7950)
+        ;
+
+        
+    
+    
+            var circle_marker_c9afca55398f576d1b84fc86403839b7 = L.circleMarker(
+                [54.1027125, 22.9318782174945],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_00944ee5fa9441a39e4cdfabd71f303c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4a3971eb175a292b4644723228d6fee4 = $(`<div id="html_4a3971eb175a292b4644723228d6fee4" style="width: 100.0%; height: 100.0%;">Name: Suwałki, województwo podlaskie, Polska<br>Count: 2</div>`)[0];
+            popup_00944ee5fa9441a39e4cdfabd71f303c.setContent(html_4a3971eb175a292b4644723228d6fee4);
+        
+
+        circle_marker_c9afca55398f576d1b84fc86403839b7.bindPopup(popup_00944ee5fa9441a39e4cdfabd71f303c)
+        ;
+
+        
+    
+    
+            var circle_marker_a0d88df07d3a1efd9289c3a09e7386e6 = L.circleMarker(
+                [54.1571793, 24.1804145],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_82fac2a7f761acc9ffadfe70e53d0c3b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_223b3d72e896b5e2e5044547fbf7842c = $(`<div id="html_223b3d72e896b5e2e5044547fbf7842c" style="width: 100.0%; height: 100.0%;">Name: Niemen, gmina Merec, rejon orański, Okręg olicki, 99350, Litwa<br>Count: 1</div>`)[0];
+            popup_82fac2a7f761acc9ffadfe70e53d0c3b.setContent(html_223b3d72e896b5e2e5044547fbf7842c);
+        
+
+        circle_marker_a0d88df07d3a1efd9289c3a09e7386e6.bindPopup(popup_82fac2a7f761acc9ffadfe70e53d0c3b)
+        ;
+
+        
+    
+    
+            var circle_marker_13385a9716465e17b42726bf8bf83971 = L.circleMarker(
+                [54.36143405, 18.6282184755727],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_fe86bcd3b7e361e0f02ab415fd8875a3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1c6e678099d4093afe330e7eaa530caa = $(`<div id="html_1c6e678099d4093afe330e7eaa530caa" style="width: 100.0%; height: 100.0%;">Name: Gdańsk, województwo pomorskie, Polska<br>Count: 1</div>`)[0];
+            popup_fe86bcd3b7e361e0f02ab415fd8875a3.setContent(html_1c6e678099d4093afe330e7eaa530caa);
+        
+
+        circle_marker_13385a9716465e17b42726bf8bf83971.bindPopup(popup_fe86bcd3b7e361e0f02ab415fd8875a3)
+        ;
+
+        
+    
+    
+            var circle_marker_8daf88e3edb4000e6ad56c0a9a6b2b84 = L.circleMarker(
+                [59.938732, 30.316229],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_78749d3ef73960769cf5734b11f0742f);
+        
+    
+        var popup_df887b32eedee996306d11359829ab2c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8a907a1ef415fbb973a165a65188dbe1 = $(`<div id="html_8a907a1ef415fbb973a165a65188dbe1" style="width: 100.0%; height: 100.0%;">Name: Petersburg, rejon centralny, Sankt Petersburg, Północno-Zachodni Okręg Federalny, 190000, Rosja<br>Count: 1</div>`)[0];
+            popup_df887b32eedee996306d11359829ab2c.setContent(html_8a907a1ef415fbb973a165a65188dbe1);
+        
+
+        circle_marker_8daf88e3edb4000e6ad56c0a9a6b2b84.bindPopup(popup_df887b32eedee996306d11359829ab2c)
+        ;
+
+        
+    
+</script>
+</html>

@@ -1,0 +1,1861 @@
+{
+  "id": "b1fd9b87-4da9-4300-9f43-9769bba4ebc8",
+  "label": "",
+  "text": "Córka Ksawerego Działyńskiego (senatora-wojewody Księstwa Warszawskiego i Królestwa Kongresowego), siostra Tytusa Działyńskiego, żona Bernarda Potockiego – syna pisarza Jana Potockiego, autora Rękopisu znalezionego w Saragossie, przyjaciółka Emilii Sczanieckiej. Pochodziła z zasłużonej dla kraju rodziny Działyńskich. Jej ojciec Ksawery Szymon Działyński, razem z bratem Ignacym, należał do aktywnych uczestników prac Sejmu Czteroletniego i twórców Konstytucji 3 maja. Po śmierci ojca, matka Klaudyny odbyła z nią podróż do Warszawy, Wiednia i Paryża. Tam Klaudyna pobierała lekcje gry na fortepianie, dykcji, tańca, rysunków u znanych mistrzów. W 1823 roku powróciła z matką do Konarzewa, gdzie 25 września 1825 poślubiła Andrzeja Bernarda Potockiego. Zmarła 8 czerwca 1836 z powodu powikłań chorób płuc i serca, będąc w siódmym miesiącu ciąży.",
+  "tagset": "nkjp",
+  "tokens": {
+    "default": [
+      {
+        "lexemes": [
+          {
+            "lemma": "córka",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 1,
+        "start": 0,
+        "stop": 5
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Ksawery",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 2,
+        "start": 6,
+        "stop": 15
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Działyński",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 3,
+        "start": 16,
+        "stop": 29
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "(",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 4,
+        "start": 30,
+        "stop": 31
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "senator",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 5,
+        "start": 31,
+        "stop": 39
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "-",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 6,
+        "start": 39,
+        "stop": 40
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "wojewoda",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 7,
+        "start": 40,
+        "stop": 48
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "księstwo",
+            "pos": "subst:sg:gen:n",
+            "disamb": true
+          }
+        ],
+        "id": 8,
+        "start": 49,
+        "stop": 57
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "warszawski",
+            "pos": "adj:sg:gen:n:pos",
+            "disamb": true
+          }
+        ],
+        "id": 9,
+        "start": 58,
+        "stop": 71
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "i",
+            "pos": "conj",
+            "disamb": true
+          }
+        ],
+        "id": 10,
+        "start": 72,
+        "stop": 73
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "królestwo",
+            "pos": "subst:sg:gen:n",
+            "disamb": true
+          }
+        ],
+        "id": 11,
+        "start": 74,
+        "stop": 83
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "kongresowy",
+            "pos": "adj:sg:gen:n:pos",
+            "disamb": true
+          }
+        ],
+        "id": 12,
+        "start": 84,
+        "stop": 96
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ")",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 13,
+        "start": 96,
+        "stop": 97
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 14,
+        "start": 97,
+        "stop": 98
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "siostra",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 15,
+        "start": 99,
+        "stop": 106
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Tytus",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 16,
+        "start": 107,
+        "stop": 113
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Działyński",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 17,
+        "start": 114,
+        "stop": 127
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 18,
+        "start": 127,
+        "stop": 128
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "żona",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 19,
+        "start": 129,
+        "stop": 133
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Bernard",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 20,
+        "start": 134,
+        "stop": 142
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Potocki",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 21,
+        "start": 143,
+        "stop": 153
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "–",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 22,
+        "start": 154,
+        "stop": 155
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "syn",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 23,
+        "start": 156,
+        "stop": 160
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "pisarz",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 24,
+        "start": 161,
+        "stop": 168
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Jan",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 25,
+        "start": 169,
+        "stop": 173
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Potocki",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 26,
+        "start": 174,
+        "stop": 184
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 27,
+        "start": 184,
+        "stop": 185
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "autor",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 28,
+        "start": 186,
+        "stop": 192
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "rękopis",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 29,
+        "start": 193,
+        "stop": 201
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "znaleźć",
+            "pos": "ppas:sg:gen:m3:perf:aff",
+            "disamb": true
+          }
+        ],
+        "id": 30,
+        "start": 202,
+        "stop": 214
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "w",
+            "pos": "prep:loc:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 31,
+        "start": 215,
+        "stop": 216
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Saragossa",
+            "pos": "subst:sg:loc:f",
+            "disamb": true
+          }
+        ],
+        "id": 32,
+        "start": 217,
+        "stop": 227
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 33,
+        "start": 227,
+        "stop": 228
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "przyjaciółka",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 34,
+        "start": 229,
+        "stop": 241
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Emilia",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 35,
+        "start": 242,
+        "stop": 248
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Sczanieckiej",
+            "pos": "ign",
+            "disamb": true
+          }
+        ],
+        "id": 36,
+        "start": 249,
+        "stop": 261
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 37,
+        "start": 261,
+        "stop": 262
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "pochodzić",
+            "pos": "praet:sg:f:imperf",
+            "disamb": true
+          }
+        ],
+        "id": 38,
+        "start": 263,
+        "stop": 273
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "z",
+            "pos": "prep:gen:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 39,
+        "start": 274,
+        "stop": 275
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "zasłużony",
+            "pos": "adj:sg:gen:f:pos",
+            "disamb": true
+          }
+        ],
+        "id": 40,
+        "start": 276,
+        "stop": 286
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "dla",
+            "pos": "prep:gen",
+            "disamb": true
+          }
+        ],
+        "id": 41,
+        "start": 287,
+        "stop": 290
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "kraj",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 42,
+        "start": 291,
+        "stop": 296
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "rodzina",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 43,
+        "start": 297,
+        "stop": 304
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Działyński",
+            "pos": "subst:pl:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 44,
+        "start": 305,
+        "stop": 317
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 45,
+        "start": 317,
+        "stop": 318
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "on",
+            "pos": "ppron3:sg:gen:f:ter:akc:npraep",
+            "disamb": true
+          }
+        ],
+        "id": 46,
+        "start": 319,
+        "stop": 322
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "ojciec",
+            "pos": "subst:sg:nom:m1",
+            "disamb": true
+          }
+        ],
+        "id": 47,
+        "start": 323,
+        "stop": 329
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Ksawery",
+            "pos": "subst:sg:nom:m1",
+            "disamb": true
+          }
+        ],
+        "id": 48,
+        "start": 330,
+        "stop": 337
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Szymon",
+            "pos": "subst:sg:nom:m1",
+            "disamb": true
+          }
+        ],
+        "id": 49,
+        "start": 338,
+        "stop": 344
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Działyński",
+            "pos": "subst:sg:nom:m1",
+            "disamb": true
+          }
+        ],
+        "id": 50,
+        "start": 345,
+        "stop": 355
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 51,
+        "start": 355,
+        "stop": 356
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "razem",
+            "pos": "adv",
+            "disamb": true
+          }
+        ],
+        "id": 52,
+        "start": 357,
+        "stop": 362
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "z",
+            "pos": "prep:inst:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 53,
+        "start": 363,
+        "stop": 364
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "brat",
+            "pos": "subst:sg:inst:m1",
+            "disamb": true
+          }
+        ],
+        "id": 54,
+        "start": 365,
+        "stop": 371
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Ignacy",
+            "pos": "subst:sg:inst:m1",
+            "disamb": true
+          }
+        ],
+        "id": 55,
+        "start": 372,
+        "stop": 379
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 56,
+        "start": 379,
+        "stop": 380
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "należeć",
+            "pos": "praet:sg:m1:imperf",
+            "disamb": true
+          }
+        ],
+        "id": 57,
+        "start": 381,
+        "stop": 388
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "do",
+            "pos": "prep:gen",
+            "disamb": true
+          }
+        ],
+        "id": 58,
+        "start": 389,
+        "stop": 391
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "aktywny",
+            "pos": "adj:pl:gen:m1:pos",
+            "disamb": true
+          }
+        ],
+        "id": 59,
+        "start": 392,
+        "stop": 401
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "uczestnik",
+            "pos": "subst:pl:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 60,
+        "start": 402,
+        "stop": 413
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "praca",
+            "pos": "subst:pl:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 61,
+        "start": 414,
+        "stop": 418
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "sejm",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 62,
+        "start": 419,
+        "stop": 424
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "czteroletni",
+            "pos": "adj:sg:gen:m3:pos",
+            "disamb": true
+          }
+        ],
+        "id": 63,
+        "start": 425,
+        "stop": 439
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "i",
+            "pos": "conj",
+            "disamb": true
+          }
+        ],
+        "id": 64,
+        "start": 440,
+        "stop": 441
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "twórca",
+            "pos": "subst:pl:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 65,
+        "start": 442,
+        "stop": 449
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Konstytucja",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 66,
+        "start": 450,
+        "stop": 461
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "3",
+            "pos": "adj:sg:gen:m3:pos",
+            "disamb": true
+          }
+        ],
+        "id": 67,
+        "start": 462,
+        "stop": 463
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "maj",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 68,
+        "start": 464,
+        "stop": 468
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 69,
+        "start": 468,
+        "stop": 469
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "po",
+            "pos": "prep:loc",
+            "disamb": true
+          }
+        ],
+        "id": 70,
+        "start": 470,
+        "stop": 472
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "śmierć",
+            "pos": "subst:sg:loc:f",
+            "disamb": true
+          }
+        ],
+        "id": 71,
+        "start": 473,
+        "stop": 480
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "ojciec",
+            "pos": "subst:sg:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 72,
+        "start": 481,
+        "stop": 485
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 73,
+        "start": 485,
+        "stop": 486
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "matka",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 74,
+        "start": 487,
+        "stop": 492
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Klaudyna",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 75,
+        "start": 493,
+        "stop": 501
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "odbyć",
+            "pos": "praet:sg:f:perf",
+            "disamb": true
+          }
+        ],
+        "id": 76,
+        "start": 502,
+        "stop": 508
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "z",
+            "pos": "prep:inst:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 77,
+        "start": 509,
+        "stop": 510
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "on",
+            "pos": "ppron3:sg:inst:f:ter:akc:praep",
+            "disamb": true
+          }
+        ],
+        "id": 78,
+        "start": 511,
+        "stop": 514
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "podróż",
+            "pos": "subst:sg:acc:f",
+            "disamb": true
+          }
+        ],
+        "id": 79,
+        "start": 515,
+        "stop": 521
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "do",
+            "pos": "prep:gen",
+            "disamb": true
+          }
+        ],
+        "id": 80,
+        "start": 522,
+        "stop": 524
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Warszawa",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 81,
+        "start": 525,
+        "stop": 533
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 82,
+        "start": 533,
+        "stop": 534
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Wiedeń",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 83,
+        "start": 535,
+        "stop": 542
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "i",
+            "pos": "conj",
+            "disamb": true
+          }
+        ],
+        "id": 84,
+        "start": 543,
+        "stop": 544
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Paryż",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 85,
+        "start": 545,
+        "stop": 551
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 86,
+        "start": 551,
+        "stop": 552
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "tam",
+            "pos": "adv",
+            "disamb": true
+          }
+        ],
+        "id": 87,
+        "start": 553,
+        "stop": 556
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Klaudyna",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 88,
+        "start": 557,
+        "stop": 565
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "pobierać",
+            "pos": "praet:sg:f:imperf",
+            "disamb": true
+          }
+        ],
+        "id": 89,
+        "start": 566,
+        "stop": 575
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "lekcja",
+            "pos": "subst:pl:acc:f",
+            "disamb": true
+          }
+        ],
+        "id": 90,
+        "start": 576,
+        "stop": 582
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "gra",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 91,
+        "start": 583,
+        "stop": 586
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "na",
+            "pos": "prep:loc",
+            "disamb": true
+          }
+        ],
+        "id": 92,
+        "start": 587,
+        "stop": 589
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "fortepian",
+            "pos": "subst:sg:loc:m3",
+            "disamb": true
+          }
+        ],
+        "id": 93,
+        "start": 590,
+        "stop": 601
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 94,
+        "start": 601,
+        "stop": 602
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "dykcja",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 95,
+        "start": 603,
+        "stop": 609
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 96,
+        "start": 609,
+        "stop": 610
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "taniec",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 97,
+        "start": 611,
+        "stop": 616
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 98,
+        "start": 616,
+        "stop": 617
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "rysunek",
+            "pos": "subst:pl:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 99,
+        "start": 618,
+        "stop": 626
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "u",
+            "pos": "prep:gen",
+            "disamb": true
+          }
+        ],
+        "id": 100,
+        "start": 627,
+        "stop": 628
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "znany",
+            "pos": "adj:pl:gen:m1:pos",
+            "disamb": true
+          }
+        ],
+        "id": 101,
+        "start": 629,
+        "stop": 636
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "mistrz",
+            "pos": "subst:pl:gen:m1",
+            "disamb": true
+          }
+        ],
+        "id": 102,
+        "start": 637,
+        "stop": 645
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 103,
+        "start": 645,
+        "stop": 646
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "w",
+            "pos": "prep:loc:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 104,
+        "start": 647,
+        "stop": 648
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "1823",
+            "pos": "num:pl:loc:m3:congr",
+            "disamb": true
+          }
+        ],
+        "id": 105,
+        "start": 649,
+        "stop": 653
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "rok",
+            "pos": "subst:sg:loc:m3",
+            "disamb": true
+          }
+        ],
+        "id": 106,
+        "start": 654,
+        "stop": 658
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "powrócić",
+            "pos": "praet:sg:f:perf",
+            "disamb": true
+          }
+        ],
+        "id": 107,
+        "start": 659,
+        "stop": 668
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "z",
+            "pos": "prep:inst:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 108,
+        "start": 669,
+        "stop": 670
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "matka",
+            "pos": "subst:sg:inst:f",
+            "disamb": true
+          }
+        ],
+        "id": 109,
+        "start": 671,
+        "stop": 676
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "do",
+            "pos": "prep:gen",
+            "disamb": true
+          }
+        ],
+        "id": 110,
+        "start": 677,
+        "stop": 679
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Konarzewa",
+            "pos": "ign",
+            "disamb": true
+          }
+        ],
+        "id": 111,
+        "start": 680,
+        "stop": 689
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 112,
+        "start": 689,
+        "stop": 690
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "gdzie",
+            "pos": "adv",
+            "disamb": true
+          }
+        ],
+        "id": 113,
+        "start": 691,
+        "stop": 696
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "25",
+            "pos": "adj:sg:gen:m3:pos",
+            "disamb": true
+          }
+        ],
+        "id": 114,
+        "start": 697,
+        "stop": 699
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "wrzesień",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 115,
+        "start": 700,
+        "stop": 708
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "1825",
+            "pos": "num:pl:acc:f:rec",
+            "disamb": true
+          }
+        ],
+        "id": 116,
+        "start": 709,
+        "stop": 713
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "poślubić",
+            "pos": "praet:sg:f:perf",
+            "disamb": true
+          }
+        ],
+        "id": 117,
+        "start": 714,
+        "stop": 723
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Andrzej",
+            "pos": "subst:sg:acc:m1",
+            "disamb": true
+          }
+        ],
+        "id": 118,
+        "start": 724,
+        "stop": 732
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Bernard",
+            "pos": "subst:sg:acc:m1",
+            "disamb": true
+          }
+        ],
+        "id": 119,
+        "start": 733,
+        "stop": 741
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "Potocki",
+            "pos": "subst:sg:acc:m1",
+            "disamb": true
+          }
+        ],
+        "id": 120,
+        "start": 742,
+        "stop": 752
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 121,
+        "start": 752,
+        "stop": 753
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "zmarła",
+            "pos": "subst:sg:nom:f",
+            "disamb": true
+          }
+        ],
+        "id": 122,
+        "start": 754,
+        "stop": 760
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "8",
+            "pos": "adj:sg:gen:m3:pos",
+            "disamb": true
+          }
+        ],
+        "id": 123,
+        "start": 761,
+        "stop": 762
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "czerwiec",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 124,
+        "start": 763,
+        "stop": 770
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "1836",
+            "pos": "num:pl:nom:m3:rec",
+            "disamb": true
+          }
+        ],
+        "id": 125,
+        "start": 771,
+        "stop": 775
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "z",
+            "pos": "prep:gen:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 126,
+        "start": 776,
+        "stop": 777
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "powód",
+            "pos": "subst:sg:gen:m3",
+            "disamb": true
+          }
+        ],
+        "id": 127,
+        "start": 778,
+        "stop": 784
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "powikłanie",
+            "pos": "subst:pl:gen:n",
+            "disamb": true
+          }
+        ],
+        "id": 128,
+        "start": 785,
+        "stop": 793
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "choroba",
+            "pos": "subst:pl:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 129,
+        "start": 794,
+        "stop": 800
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "płuco",
+            "pos": "subst:pl:gen:n",
+            "disamb": true
+          }
+        ],
+        "id": 130,
+        "start": 801,
+        "stop": 805
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "i",
+            "pos": "conj",
+            "disamb": true
+          }
+        ],
+        "id": 131,
+        "start": 806,
+        "stop": 807
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "serce",
+            "pos": "subst:sg:gen:n",
+            "disamb": true
+          }
+        ],
+        "id": 132,
+        "start": 808,
+        "stop": 813
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ",",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 133,
+        "start": 813,
+        "stop": 814
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "być",
+            "pos": "pcon:imperf",
+            "disamb": true
+          }
+        ],
+        "id": 134,
+        "start": 815,
+        "stop": 820
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "w",
+            "pos": "prep:loc:nwok",
+            "disamb": true
+          }
+        ],
+        "id": 135,
+        "start": 821,
+        "stop": 822
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "siódmy",
+            "pos": "adj:sg:loc:m3:pos",
+            "disamb": true
+          }
+        ],
+        "id": 136,
+        "start": 823,
+        "stop": 830
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "miesiąc",
+            "pos": "subst:sg:loc:m3",
+            "disamb": true
+          }
+        ],
+        "id": 137,
+        "start": 831,
+        "stop": 839
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": "ciąża",
+            "pos": "subst:sg:gen:f",
+            "disamb": true
+          }
+        ],
+        "id": 138,
+        "start": 840,
+        "stop": 845
+      },
+      {
+        "lexemes": [
+          {
+            "lemma": ".",
+            "pos": "interp",
+            "disamb": true
+          }
+        ],
+        "id": 139,
+        "start": 845,
+        "stop": 846
+      }
+    ]
+  },
+  "spans": {
+    "ner": [
+      {
+        "id": "df1aa1ec-f80d-42c0-80e5-80b9bb76cb3b",
+        "start": 6,
+        "stop": 29,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "68f00c20-aadb-455a-a4f2-a618089f8c73",
+        "start": 49,
+        "stop": 71,
+        "type": "nam_loc_gpe_country"
+      },
+      {
+        "id": "7883230c-6894-4c45-85f1-19dd439c148a",
+        "start": 74,
+        "stop": 96,
+        "type": "nam_loc_gpe_country"
+      },
+      {
+        "id": "f538eb22-28a6-410d-b964-06da6ec09248",
+        "start": 107,
+        "stop": 127,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "8ef8eac0-d2f6-41d7-9fd0-68b75d032ebb",
+        "start": 134,
+        "stop": 153,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "2e434ac8-fe07-4309-b32a-0406eaa4be6b",
+        "start": 169,
+        "stop": 184,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "aa81f519-9031-40e9-b3a8-7a7eae3e006b",
+        "start": 193,
+        "stop": 227,
+        "type": "nam_pro_title"
+      },
+      {
+        "id": "81ca1e49-a409-4d2f-8ab3-0e4aba180149",
+        "start": 242,
+        "stop": 261,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "f98c774e-99ec-49ec-b3fd-3c85746bb939",
+        "start": 305,
+        "stop": 317,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "f21fde26-a146-4d3d-ad76-975326967334",
+        "start": 330,
+        "stop": 355,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "e3e21a7c-cc68-43e8-92e9-2c0caec5aa58",
+        "start": 372,
+        "stop": 379,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "945bf3a6-b8d6-4dd3-84ff-54236f47ec78",
+        "start": 419,
+        "stop": 439,
+        "type": "nam_eve_human"
+      },
+      {
+        "id": "3d67d2c8-9d48-4517-b318-e57dcb43f2df",
+        "start": 450,
+        "stop": 468,
+        "type": "nam_pro_title_document"
+      },
+      {
+        "id": "7f86a8cf-0bbb-4fac-9098-dbecb7af5eee",
+        "start": 493,
+        "stop": 501,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "81333797-a4f1-468a-af16-93d38f2d95db",
+        "start": 525,
+        "stop": 533,
+        "type": "nam_loc_gpe_city"
+      },
+      {
+        "id": "0a45812e-413f-4946-ab4b-8670146f58e6",
+        "start": 535,
+        "stop": 542,
+        "type": "nam_loc_gpe_city"
+      },
+      {
+        "id": "62d61713-d829-44a5-bd30-ab1c334d2444",
+        "start": 545,
+        "stop": 551,
+        "type": "nam_loc_gpe_city"
+      },
+      {
+        "id": "948d39bc-e489-4609-81d3-3210d6ad1a70",
+        "start": 557,
+        "stop": 565,
+        "type": "nam_liv_person"
+      },
+      {
+        "id": "4cfff375-b8de-4f70-8773-2f43fffc88de",
+        "start": 680,
+        "stop": 689,
+        "type": "nam_loc_gpe_city"
+      },
+      {
+        "id": "9fb3c48e-f866-4469-afbb-15a8e113df48",
+        "start": 724,
+        "stop": 752,
+        "type": "nam_liv_person"
+      }
+    ],
+    "sentence": [
+      {
+        "id": 1,
+        "start": 0,
+        "stop": 262
+      },
+      {
+        "id": 2,
+        "start": 263,
+        "stop": 318
+      },
+      {
+        "id": 3,
+        "start": 319,
+        "stop": 469
+      },
+      {
+        "id": 4,
+        "start": 470,
+        "stop": 552
+      },
+      {
+        "id": 5,
+        "start": 553,
+        "stop": 646
+      },
+      {
+        "id": 6,
+        "start": 647,
+        "stop": 753
+      },
+      {
+        "id": 7,
+        "start": 754,
+        "stop": 846
+      }
+    ]
+  },
+  "relations": {},
+  "records": {
+    "geolocation": [
+      {
+        "obj-id": "62d61713-d829-44a5-bd30-ab1c334d2444",
+        "name": "Paryż, Île-de-France, Francja",
+        "type": "administrative",
+        "lat": 48.85881005,
+        "lon": 2.32003101155031,
+        "importance": 0.96893459932191
+      },
+      {
+        "obj-id": "4cfff375-b8de-4f70-8773-2f43fffc88de",
+        "name": "Konarzewo, gmina Gołymin-Ośrodek, powiat ciechanowski, województwo mazowieckie, Polska",
+        "type": "hamlet",
+        "lat": 52.8175,
+        "lon": 20.9225,
+        "importance": 0.275
+      }
+    ]
+  },
+  "filename": "50ca324e-1de8-4311-90db-09a2a1f6c01d"
+}

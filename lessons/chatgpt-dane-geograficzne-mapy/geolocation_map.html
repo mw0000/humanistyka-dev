@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_df8137dd31b138ca525dab4753d43bde {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_df8137dd31b138ca525dab4753d43bde" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_df8137dd31b138ca525dab4753d43bde = L.map(
+                "map_df8137dd31b138ca525dab4753d43bde",
+                {
+                    center: [52.0, 20.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3f3281bbabad8e0e995b6216a22e4e22 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var marker_e84281d7380cbf2e561faa8c130423c1 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_75d72f489bc419209518b1bb127ada9a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_e84281d7380cbf2e561faa8c130423c1.setIcon(icon_75d72f489bc419209518b1bb127ada9a);
+        
+    
+        var popup_ecdd82d91864876377db3ec0e4c1e497 = L.popup({"maxWidth": 300});
+
+        
+            var html_c1eac0d1ab376f156a6053f89b9fa91b = $(`<div id="html_c1eac0d1ab376f156a6053f89b9fa91b" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_ecdd82d91864876377db3ec0e4c1e497.setContent(html_c1eac0d1ab376f156a6053f89b9fa91b);
+        
+
+        marker_e84281d7380cbf2e561faa8c130423c1.bindPopup(popup_ecdd82d91864876377db3ec0e4c1e497)
+        ;
+
+        
+    
+    
+            var marker_45b50accd15abfdb508c186946ff5837 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_923e9de500f205ffd43184c17984310c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_45b50accd15abfdb508c186946ff5837.setIcon(icon_923e9de500f205ffd43184c17984310c);
+        
+    
+        var popup_892320a1cee8302fba46760a54a3d50c = L.popup({"maxWidth": 300});
+
+        
+            var html_7544c9df4200d619566a33635ad7711a = $(`<div id="html_7544c9df4200d619566a33635ad7711a" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_892320a1cee8302fba46760a54a3d50c.setContent(html_7544c9df4200d619566a33635ad7711a);
+        
+
+        marker_45b50accd15abfdb508c186946ff5837.bindPopup(popup_892320a1cee8302fba46760a54a3d50c)
+        ;
+
+        
+    
+    
+            var marker_0bdf3a4f1daac669a02a5f56ac446ca7 = L.marker(
+                [52.3942261, 64.0766537],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_8f90e2d43ee633ba726d877b2468e9ec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_0bdf3a4f1daac669a02a5f56ac446ca7.setIcon(icon_8f90e2d43ee633ba726d877b2468e9ec);
+        
+    
+        var popup_fc439de7c008d9ea3726aa17088da7ac = L.popup({"maxWidth": 300});
+
+        
+            var html_59267a7aa7415367fda1cd0c43dfb233 = $(`<div id="html_59267a7aa7415367fda1cd0c43dfb233" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Карл Маркса, Аманкарагай, Аулиекольский район, Костанайская область, Kazachstan<br><b>Importance:</b> 0.1</div>`)[0];
+            popup_fc439de7c008d9ea3726aa17088da7ac.setContent(html_59267a7aa7415367fda1cd0c43dfb233);
+        
+
+        marker_0bdf3a4f1daac669a02a5f56ac446ca7.bindPopup(popup_fc439de7c008d9ea3726aa17088da7ac)
+        ;
+
+        
+    
+    
+            var marker_855c9ef05b98e3d8aad916d559182853 = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_762cd85ab266e078a19d2e9280a8eea5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_855c9ef05b98e3d8aad916d559182853.setIcon(icon_762cd85ab266e078a19d2e9280a8eea5);
+        
+    
+        var popup_fa27cdaf2ac6787711f6e5c5c1f42211 = L.popup({"maxWidth": 300});
+
+        
+            var html_8bca4ac8cc4bb335ccfa039d6a51154f = $(`<div id="html_8bca4ac8cc4bb335ccfa039d6a51154f" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_fa27cdaf2ac6787711f6e5c5c1f42211.setContent(html_8bca4ac8cc4bb335ccfa039d6a51154f);
+        
+
+        marker_855c9ef05b98e3d8aad916d559182853.bindPopup(popup_fa27cdaf2ac6787711f6e5c5c1f42211)
+        ;
+
+        
+    
+    
+            var marker_a04f0d247ddfa8074fd9a06540ce7440 = L.marker(
+                [54.0133215, 22.7288267],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_da2537eff363c63385a240ac01732790 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a04f0d247ddfa8074fd9a06540ce7440.setIcon(icon_da2537eff363c63385a240ac01732790);
+        
+    
+        var popup_788481da8e9e7d5cd723b60578527616 = L.popup({"maxWidth": 300});
+
+        
+            var html_c4515ba0c824482b228968ff84460ed7 = $(`<div id="html_c4515ba0c824482b228968ff84460ed7" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br><b>Importance:</b> 0.39330015574966</div>`)[0];
+            popup_788481da8e9e7d5cd723b60578527616.setContent(html_c4515ba0c824482b228968ff84460ed7);
+        
+
+        marker_a04f0d247ddfa8074fd9a06540ce7440.bindPopup(popup_788481da8e9e7d5cd723b60578527616)
+        ;
+
+        
+    
+    
+            var marker_edc3a30698fddc6aa0951b56a7f1b631 = L.marker(
+                [54.0133215, 22.7288267],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_f692d6ad81e2f8df908b584194407eec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_edc3a30698fddc6aa0951b56a7f1b631.setIcon(icon_f692d6ad81e2f8df908b584194407eec);
+        
+    
+        var popup_bbe591a5c5b986480d610156db2b683c = L.popup({"maxWidth": 300});
+
+        
+            var html_d6746cfb094700968fdb009fdd359014 = $(`<div id="html_d6746cfb094700968fdb009fdd359014" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br><b>Importance:</b> 0.39330015574966</div>`)[0];
+            popup_bbe591a5c5b986480d610156db2b683c.setContent(html_d6746cfb094700968fdb009fdd359014);
+        
+
+        marker_edc3a30698fddc6aa0951b56a7f1b631.bindPopup(popup_bbe591a5c5b986480d610156db2b683c)
+        ;
+
+        
+    
+    
+            var marker_d07ba5479a54690d55e98561ec5f5412 = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_5400a5cc6f9219f000b9d9d270cf5942 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d07ba5479a54690d55e98561ec5f5412.setIcon(icon_5400a5cc6f9219f000b9d9d270cf5942);
+        
+    
+        var popup_fd0cbf0a17b999e2350e320802797560 = L.popup({"maxWidth": 300});
+
+        
+            var html_eaacc72140419a37028a4d8e3833a9ff = $(`<div id="html_eaacc72140419a37028a4d8e3833a9ff" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_fd0cbf0a17b999e2350e320802797560.setContent(html_eaacc72140419a37028a4d8e3833a9ff);
+        
+
+        marker_d07ba5479a54690d55e98561ec5f5412.bindPopup(popup_fd0cbf0a17b999e2350e320802797560)
+        ;
+
+        
+    
+    
+            var marker_35a2a40df4b125247a52808a6b46bb0d = L.marker(
+                [54.0133215, 22.7288267],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_d1f50ec7efbfe2209f6b82be8944e330 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_35a2a40df4b125247a52808a6b46bb0d.setIcon(icon_d1f50ec7efbfe2209f6b82be8944e330);
+        
+    
+        var popup_60af709652dc136c29e98b4aa1aa774e = L.popup({"maxWidth": 300});
+
+        
+            var html_3da3b48f923ebffd72534baed5901337 = $(`<div id="html_3da3b48f923ebffd72534baed5901337" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br><b>Importance:</b> 0.29330015574966</div>`)[0];
+            popup_60af709652dc136c29e98b4aa1aa774e.setContent(html_3da3b48f923ebffd72534baed5901337);
+        
+
+        marker_35a2a40df4b125247a52808a6b46bb0d.bindPopup(popup_60af709652dc136c29e98b4aa1aa774e)
+        ;
+
+        
+    
+    
+            var marker_f80833f0555d7ef593bc91ce4707d0cb = L.marker(
+                [54.0133215, 22.7288267],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_fc9ac0cfa6b9ef742cf827bb917f3586 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f80833f0555d7ef593bc91ce4707d0cb.setIcon(icon_fc9ac0cfa6b9ef742cf827bb917f3586);
+        
+    
+        var popup_50f73c70719837f769d80d97910d9f38 = L.popup({"maxWidth": 300});
+
+        
+            var html_f50980b9e99257e0e98c34c38c459da2 = $(`<div id="html_f50980b9e99257e0e98c34c38c459da2" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br><b>Importance:</b> 0.39330015574966</div>`)[0];
+            popup_50f73c70719837f769d80d97910d9f38.setContent(html_f50980b9e99257e0e98c34c38c459da2);
+        
+
+        marker_f80833f0555d7ef593bc91ce4707d0cb.bindPopup(popup_50f73c70719837f769d80d97910d9f38)
+        ;
+
+        
+    
+    
+            var marker_69ba43414eaa06a04b4908731c29560a = L.marker(
+                [54.0133215, 22.7288267],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_a69728b1202dc2bff5a405744b10f6a1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_69ba43414eaa06a04b4908731c29560a.setIcon(icon_a69728b1202dc2bff5a405744b10f6a1);
+        
+    
+        var popup_88a51a3d10a7c659673495611d99f4e4 = L.popup({"maxWidth": 300});
+
+        
+            var html_254ddbbeb69bc274f0ca0257752b695e = $(`<div id="html_254ddbbeb69bc274f0ca0257752b695e" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Ludwinowo, gmina Raczki, powiat suwalski, województwo podlaskie, Polska<br><b>Importance:</b> 0.39330015574966</div>`)[0];
+            popup_88a51a3d10a7c659673495611d99f4e4.setContent(html_254ddbbeb69bc274f0ca0257752b695e);
+        
+
+        marker_69ba43414eaa06a04b4908731c29560a.bindPopup(popup_88a51a3d10a7c659673495611d99f4e4)
+        ;
+
+        
+    
+    
+            var marker_a69d3a191011a209f531e252df39d9c2 = L.marker(
+                [50.1704678, 21.2309832],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_5da334aed48a1691fec580945d62c746 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a69d3a191011a209f531e252df39d9c2.setIcon(icon_5da334aed48a1691fec580945d62c746);
+        
+    
+        var popup_cab291c05a0e2b270c0b2dbe2935a999 = L.popup({"maxWidth": 300});
+
+        
+            var html_aa71f3e400f81e4b8b1f44c5c01cfde2 = $(`<div id="html_aa71f3e400f81e4b8b1f44c5c01cfde2" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Sybir, gmina Radomyśl Wielki, powiat mielecki, województwo podkarpackie, 39-312, Polska<br><b>Importance:</b> 0.375</div>`)[0];
+            popup_cab291c05a0e2b270c0b2dbe2935a999.setContent(html_aa71f3e400f81e4b8b1f44c5c01cfde2);
+        
+
+        marker_a69d3a191011a209f531e252df39d9c2.bindPopup(popup_cab291c05a0e2b270c0b2dbe2935a999)
+        ;
+
+        
+    
+    
+            var marker_dd44cf726c41cf00b7692a96798ecb47 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_79d6212a6f003f677dd51618e067c1ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_dd44cf726c41cf00b7692a96798ecb47.setIcon(icon_79d6212a6f003f677dd51618e067c1ed);
+        
+    
+        var popup_3c87cd5920be7a8b860ee29306c0611a = L.popup({"maxWidth": 300});
+
+        
+            var html_44d93dcade7e730e029b5db74d381ecd = $(`<div id="html_44d93dcade7e730e029b5db74d381ecd" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_3c87cd5920be7a8b860ee29306c0611a.setContent(html_44d93dcade7e730e029b5db74d381ecd);
+        
+
+        marker_dd44cf726c41cf00b7692a96798ecb47.bindPopup(popup_3c87cd5920be7a8b860ee29306c0611a)
+        ;
+
+        
+    
+    
+            var marker_bd107c421104a4ecbc46d7194bdbf04f = L.marker(
+                [59.938732, 30.316229],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_87e745f3142acb456cd4d08324e33b67 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_bd107c421104a4ecbc46d7194bdbf04f.setIcon(icon_87e745f3142acb456cd4d08324e33b67);
+        
+    
+        var popup_66573ea2a6872e668ee5d449f46fd7ed = L.popup({"maxWidth": 300});
+
+        
+            var html_fa01a3b43184860670d56fa44ffa3146 = $(`<div id="html_fa01a3b43184860670d56fa44ffa3146" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Petersburg, rejon centralny, Sankt Petersburg, Północno-Zachodni Okręg Federalny, 190000, Rosja<br><b>Importance:</b> 0.82771842591033</div>`)[0];
+            popup_66573ea2a6872e668ee5d449f46fd7ed.setContent(html_fa01a3b43184860670d56fa44ffa3146);
+        
+
+        marker_bd107c421104a4ecbc46d7194bdbf04f.bindPopup(popup_66573ea2a6872e668ee5d449f46fd7ed)
+        ;
+
+        
+    
+    
+            var marker_d22ce984cee9b8ab88a90cc1f4d8880f = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_597f13e075ec55974761ba9d56a994da = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_d22ce984cee9b8ab88a90cc1f4d8880f.setIcon(icon_597f13e075ec55974761ba9d56a994da);
+        
+    
+        var popup_c8ea3c76b68151b145163e11d07fb56b = L.popup({"maxWidth": 300});
+
+        
+            var html_a9ea08679bc30585ab9c4a71d91fe4a6 = $(`<div id="html_a9ea08679bc30585ab9c4a71d91fe4a6" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_c8ea3c76b68151b145163e11d07fb56b.setContent(html_a9ea08679bc30585ab9c4a71d91fe4a6);
+        
+
+        marker_d22ce984cee9b8ab88a90cc1f4d8880f.bindPopup(popup_c8ea3c76b68151b145163e11d07fb56b)
+        ;
+
+        
+    
+    
+            var marker_c62e68889de01096e96a565227ab88d6 = L.marker(
+                [46.6855231, 7.8585139],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_3fede16ccccc6577ea8e580661bf2ace = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c62e68889de01096e96a565227ab88d6.setIcon(icon_3fede16ccccc6577ea8e580661bf2ace);
+        
+    
+        var popup_cdef26a0d63de9312769eda888b51e18 = L.popup({"maxWidth": 300});
+
+        
+            var html_ee6195567e0e42ebbf5ccda40072f714 = $(`<div id="html_ee6195567e0e42ebbf5ccda40072f714" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Interlaken, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Berno, 3800, Szwajcaria<br><b>Importance:</b> 0.58554729854301</div>`)[0];
+            popup_cdef26a0d63de9312769eda888b51e18.setContent(html_ee6195567e0e42ebbf5ccda40072f714);
+        
+
+        marker_c62e68889de01096e96a565227ab88d6.bindPopup(popup_cdef26a0d63de9312769eda888b51e18)
+        ;
+
+        
+    
+    
+            var marker_871ebb13fa0704db2a167a47755592b8 = L.marker(
+                [46.5367739, 7.9625907],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_fb1bcf4f70dbb22890bfd7f012244935 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_871ebb13fa0704db2a167a47755592b8.setIcon(icon_fb1bcf4f70dbb22890bfd7f012244935);
+        
+    
+        var popup_23237361fd96cf982dc4dd80caaf3fde = L.popup({"maxWidth": 300});
+
+        
+            var html_a66c6273200acc25d301ca2e222c3810 = $(`<div id="html_a66c6273200acc25d301ca2e222c3810" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Jungfrau, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Berno, 3801, Szwajcaria<br><b>Importance:</b> 0.56328064002702</div>`)[0];
+            popup_23237361fd96cf982dc4dd80caaf3fde.setContent(html_a66c6273200acc25d301ca2e222c3810);
+        
+
+        marker_871ebb13fa0704db2a167a47755592b8.bindPopup(popup_23237361fd96cf982dc4dd80caaf3fde)
+        ;
+
+        
+    
+    
+            var marker_b255662554d0446b51dd1d8fa7e7c2e1 = L.marker(
+                [47.3723941, 8.5423328],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_00b68c49dcd3048a0a2a5a80662fdd68 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_b255662554d0446b51dd1d8fa7e7c2e1.setIcon(icon_00b68c49dcd3048a0a2a5a80662fdd68);
+        
+    
+        var popup_032188b4a8a002980a6731ac97fd4ec6 = L.popup({"maxWidth": 300});
+
+        
+            var html_76c742f2ccd08e95d0cb9817baef3287 = $(`<div id="html_76c742f2ccd08e95d0cb9817baef3287" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Zurych, Bezirk Zürich, Zurych, Szwajcaria<br><b>Importance:</b> 0.8033923064304</div>`)[0];
+            popup_032188b4a8a002980a6731ac97fd4ec6.setContent(html_76c742f2ccd08e95d0cb9817baef3287);
+        
+
+        marker_b255662554d0446b51dd1d8fa7e7c2e1.bindPopup(popup_032188b4a8a002980a6731ac97fd4ec6)
+        ;
+
+        
+    
+    
+            var marker_0412700ae907d4fdc7cab23ddc1878ca = L.marker(
+                [47.2272484, 8.8156217],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_d46556510f8eace985dd173d41f11111 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "gray", "prefix": "glyphicon"}
+            );
+            marker_0412700ae907d4fdc7cab23ddc1878ca.setIcon(icon_d46556510f8eace985dd173d41f11111);
+        
+    
+        var popup_fed1521e4bed7d431153a8f217ba47a6 = L.popup({"maxWidth": 300});
+
+        
+            var html_8b50c3924fb48477e8c3a429e78749e7 = $(`<div id="html_8b50c3924fb48477e8c3a429e78749e7" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Muzeum Polskie w Rapperswilu, Hintergasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Szwajcaria<br><b>Importance:</b> 0.45699840250201</div>`)[0];
+            popup_fed1521e4bed7d431153a8f217ba47a6.setContent(html_8b50c3924fb48477e8c3a429e78749e7);
+        
+
+        marker_0412700ae907d4fdc7cab23ddc1878ca.bindPopup(popup_fed1521e4bed7d431153a8f217ba47a6)
+        ;
+
+        
+    
+    
+            var marker_9c802ff1963782e361f994c299483221 = L.marker(
+                [47.6778348, 8.6153284],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_d2c271ae05994dac2e84bcb51a840db6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "gray", "prefix": "glyphicon"}
+            );
+            marker_9c802ff1963782e361f994c299483221.setIcon(icon_d2c271ae05994dac2e84bcb51a840db6);
+        
+    
+        var popup_dd5a119c309925c8e686bc6d432285d7 = L.popup({"maxWidth": 300});
+
+        
+            var html_bf9aa788a4a07ed12a8db2b6fddcfb19 = $(`<div id="html_bf9aa788a4a07ed12a8db2b6fddcfb19" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Rheinfall, Rheinfall Rundweg, Laufen-Uhwiesen, Bezirk Andelfingen, Zurych, 8248, Szwajcaria<br><b>Importance:</b> 0.46204844474975</div>`)[0];
+            popup_dd5a119c309925c8e686bc6d432285d7.setContent(html_bf9aa788a4a07ed12a8db2b6fddcfb19);
+        
+
+        marker_9c802ff1963782e361f994c299483221.bindPopup(popup_dd5a119c309925c8e686bc6d432285d7)
+        ;
+
+        
+    
+    
+            var marker_9e80ba86ad179e6435fa0beb8b5bc8a4 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_8477180050da896f8dd5cce6683982bc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_9e80ba86ad179e6435fa0beb8b5bc8a4.setIcon(icon_8477180050da896f8dd5cce6683982bc);
+        
+    
+        var popup_e104523aff35744628c053480be21437 = L.popup({"maxWidth": 300});
+
+        
+            var html_7aa038298c6c8fd642b699e3ec2702c7 = $(`<div id="html_7aa038298c6c8fd642b699e3ec2702c7" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_e104523aff35744628c053480be21437.setContent(html_7aa038298c6c8fd642b699e3ec2702c7);
+        
+
+        marker_9e80ba86ad179e6435fa0beb8b5bc8a4.bindPopup(popup_e104523aff35744628c053480be21437)
+        ;
+
+        
+    
+    
+            var marker_50aa63f046cd4617a0a6cab523f61624 = L.marker(
+                [52.0977181, 19.0258159],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_c814c152fbde2708781f6ead18dcc7f1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_50aa63f046cd4617a0a6cab523f61624.setIcon(icon_c814c152fbde2708781f6ead18dcc7f1);
+        
+    
+        var popup_c15d93a4e01204f14b247f16515349f0 = L.popup({"maxWidth": 300});
+
+        
+            var html_c0d5a086ab58c8bafad91fd6032eeeeb = $(`<div id="html_c0d5a086ab58c8bafad91fd6032eeeeb" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Polska<br><b>Importance:</b> 0.99229898543353</div>`)[0];
+            popup_c15d93a4e01204f14b247f16515349f0.setContent(html_c0d5a086ab58c8bafad91fd6032eeeeb);
+        
+
+        marker_50aa63f046cd4617a0a6cab523f61624.bindPopup(popup_c15d93a4e01204f14b247f16515349f0)
+        ;
+
+        
+    
+    
+            var marker_cc7eaea4a458cc1147e695683024aeed = L.marker(
+                [49.841952, 24.0315921],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_94bc1e693a7a56e2b8512680247a16dd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_cc7eaea4a458cc1147e695683024aeed.setIcon(icon_94bc1e693a7a56e2b8512680247a16dd);
+        
+    
+        var popup_463cfb2687675001b88a2890ac4d03b7 = L.popup({"maxWidth": 300});
+
+        
+            var html_47ff57b8004bab096c1bd19a1ef2ad62 = $(`<div id="html_47ff57b8004bab096c1bd19a1ef2ad62" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Lwów, rejon halicki, Rada Miejska Lwowa, Obwód lwowski, Ukraina<br><b>Importance:</b> 0.78998765957834</div>`)[0];
+            popup_463cfb2687675001b88a2890ac4d03b7.setContent(html_47ff57b8004bab096c1bd19a1ef2ad62);
+        
+
+        marker_cc7eaea4a458cc1147e695683024aeed.bindPopup(popup_463cfb2687675001b88a2890ac4d03b7)
+        ;
+
+        
+    
+    
+            var marker_fe870b561a2a92a594518c461602c184 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_652667718fdbe14aea059a2d8202abb2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_fe870b561a2a92a594518c461602c184.setIcon(icon_652667718fdbe14aea059a2d8202abb2);
+        
+    
+        var popup_73c6e5cfd9175206f04b42518ba35d3c = L.popup({"maxWidth": 300});
+
+        
+            var html_726d8b45e8f17749e10c6a71c2f1ee11 = $(`<div id="html_726d8b45e8f17749e10c6a71c2f1ee11" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_73c6e5cfd9175206f04b42518ba35d3c.setContent(html_726d8b45e8f17749e10c6a71c2f1ee11);
+        
+
+        marker_fe870b561a2a92a594518c461602c184.bindPopup(popup_73c6e5cfd9175206f04b42518ba35d3c)
+        ;
+
+        
+    
+    
+            var marker_c807b5c4a1b164ba04146ab6bd869366 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_d422978abf7e0c052720056c8682d401 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_c807b5c4a1b164ba04146ab6bd869366.setIcon(icon_d422978abf7e0c052720056c8682d401);
+        
+    
+        var popup_68e72288dbf4edbde1d4111573f9b932 = L.popup({"maxWidth": 300});
+
+        
+            var html_3e6f552c562802b7ca4e7085515c88cc = $(`<div id="html_3e6f552c562802b7ca4e7085515c88cc" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_68e72288dbf4edbde1d4111573f9b932.setContent(html_3e6f552c562802b7ca4e7085515c88cc);
+        
+
+        marker_c807b5c4a1b164ba04146ab6bd869366.bindPopup(popup_68e72288dbf4edbde1d4111573f9b932)
+        ;
+
+        
+    
+    
+            var marker_8d89fa01c0e9d32a87d70eb639f6af5f = L.marker(
+                [54.1027125, 22.9318782174945],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_dc19a739c12f87fafe8f984cf9827f9a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8d89fa01c0e9d32a87d70eb639f6af5f.setIcon(icon_dc19a739c12f87fafe8f984cf9827f9a);
+        
+    
+        var popup_41722dc2abbc57a9bc71e7c2c4b7d192 = L.popup({"maxWidth": 300});
+
+        
+            var html_edf43aca2f966a5d5d040f006e941814 = $(`<div id="html_edf43aca2f966a5d5d040f006e941814" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Suwałki, województwo podlaskie, Polska<br><b>Importance:</b> 0.63630101634876</div>`)[0];
+            popup_41722dc2abbc57a9bc71e7c2c4b7d192.setContent(html_edf43aca2f966a5d5d040f006e941814);
+        
+
+        marker_8d89fa01c0e9d32a87d70eb639f6af5f.bindPopup(popup_41722dc2abbc57a9bc71e7c2c4b7d192)
+        ;
+
+        
+    
+    
+            var marker_931eab927e682fcf674dd49704da0d94 = L.marker(
+                [54.1027125, 22.9318782174945],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_86cb2a307ad89f8dd24861ebe33e65e6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_931eab927e682fcf674dd49704da0d94.setIcon(icon_86cb2a307ad89f8dd24861ebe33e65e6);
+        
+    
+        var popup_8b43f2bfbad3a27bd9c44e61bf662062 = L.popup({"maxWidth": 300});
+
+        
+            var html_0072eab10e14c50d2a7bd3acd95eb86e = $(`<div id="html_0072eab10e14c50d2a7bd3acd95eb86e" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Suwałki, województwo podlaskie, Polska<br><b>Importance:</b> 0.63630101634876</div>`)[0];
+            popup_8b43f2bfbad3a27bd9c44e61bf662062.setContent(html_0072eab10e14c50d2a7bd3acd95eb86e);
+        
+
+        marker_931eab927e682fcf674dd49704da0d94.bindPopup(popup_8b43f2bfbad3a27bd9c44e61bf662062)
+        ;
+
+        
+    
+    
+            var marker_8c9d4a326971c32cf86398ee322bd45a = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_dc6f39cd8e6e07847b2a1d0fbac458a2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8c9d4a326971c32cf86398ee322bd45a.setIcon(icon_dc6f39cd8e6e07847b2a1d0fbac458a2);
+        
+    
+        var popup_ec0b7a1bbae86487deaac89f87178ffd = L.popup({"maxWidth": 300});
+
+        
+            var html_c77b20e07db6e71dd2d67038974fe92a = $(`<div id="html_c77b20e07db6e71dd2d67038974fe92a" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_ec0b7a1bbae86487deaac89f87178ffd.setContent(html_c77b20e07db6e71dd2d67038974fe92a);
+        
+
+        marker_8c9d4a326971c32cf86398ee322bd45a.bindPopup(popup_ec0b7a1bbae86487deaac89f87178ffd)
+        ;
+
+        
+    
+    
+            var marker_d89f0aed5a495d22db4c1ff6ddc2b7dd = L.marker(
+                [54.1571793, 24.1804145],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_f1503c35fefa96c31aead994da7dae8c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "gray", "prefix": "glyphicon"}
+            );
+            marker_d89f0aed5a495d22db4c1ff6ddc2b7dd.setIcon(icon_f1503c35fefa96c31aead994da7dae8c);
+        
+    
+        var popup_3946c78bdc32c13de5bf1dd56a28029d = L.popup({"maxWidth": 300});
+
+        
+            var html_06f4c4603daa1166b5d866f9c94e836b = $(`<div id="html_06f4c4603daa1166b5d866f9c94e836b" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Niemen, gmina Merec, rejon orański, Okręg olicki, 99350, Litwa<br><b>Importance:</b> 0.42356246868834</div>`)[0];
+            popup_3946c78bdc32c13de5bf1dd56a28029d.setContent(html_06f4c4603daa1166b5d866f9c94e836b);
+        
+
+        marker_d89f0aed5a495d22db4c1ff6ddc2b7dd.bindPopup(popup_3946c78bdc32c13de5bf1dd56a28029d)
+        ;
+
+        
+    
+    
+            var marker_c555da00441ba1985669a04ca9431213 = L.marker(
+                [50.04691015, 19.9970637622827],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_9d5110348a2d76742b3c701828ba6ea3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c555da00441ba1985669a04ca9431213.setIcon(icon_9d5110348a2d76742b3c701828ba6ea3);
+        
+    
+        var popup_c4897834eb73fd34d983955ed46166d8 = L.popup({"maxWidth": 300});
+
+        
+            var html_31087b7a87a73f2602af7a98d17a9cc6 = $(`<div id="html_31087b7a87a73f2602af7a98d17a9cc6" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Kraków, województwo małopolskie, Polska<br><b>Importance:</b> 0.81714770710777</div>`)[0];
+            popup_c4897834eb73fd34d983955ed46166d8.setContent(html_31087b7a87a73f2602af7a98d17a9cc6);
+        
+
+        marker_c555da00441ba1985669a04ca9431213.bindPopup(popup_c4897834eb73fd34d983955ed46166d8)
+        ;
+
+        
+    
+    
+            var marker_f2a9e383ce163521fa779aee79170219 = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_48feee0e0fc5a940a802d97330e57ef8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f2a9e383ce163521fa779aee79170219.setIcon(icon_48feee0e0fc5a940a802d97330e57ef8);
+        
+    
+        var popup_67cc4e9573dcc2da3143a7a5290f8b9e = L.popup({"maxWidth": 300});
+
+        
+            var html_f558404ae734a69526a4b6550c76219e = $(`<div id="html_f558404ae734a69526a4b6550c76219e" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_67cc4e9573dcc2da3143a7a5290f8b9e.setContent(html_f558404ae734a69526a4b6550c76219e);
+        
+
+        marker_f2a9e383ce163521fa779aee79170219.bindPopup(popup_67cc4e9573dcc2da3143a7a5290f8b9e)
+        ;
+
+        
+    
+    
+            var marker_5edd9d0b21bf6b70114cf559e47110f1 = L.marker(
+                [53.6834599, 23.8342648],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_d7258aa772c18cfd596a3bb8cf85061c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_5edd9d0b21bf6b70114cf559e47110f1.setIcon(icon_d7258aa772c18cfd596a3bb8cf85061c);
+        
+    
+        var popup_be0a70cac3f622b4e379b21139561051 = L.popup({"maxWidth": 300});
+
+        
+            var html_c4b35caac17928ea0a70d569bc3849eb = $(`<div id="html_c4b35caac17928ea0a70d569bc3849eb" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Grodno, obwód grodzieński, Białoruś<br><b>Importance:</b> 0.66452669323231</div>`)[0];
+            popup_be0a70cac3f622b4e379b21139561051.setContent(html_c4b35caac17928ea0a70d569bc3849eb);
+        
+
+        marker_5edd9d0b21bf6b70114cf559e47110f1.bindPopup(popup_be0a70cac3f622b4e379b21139561051)
+        ;
+
+        
+    
+    
+            var marker_dacec0306546998a014663ba46472f36 = L.marker(
+                [46.7985624, 8.2319736],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_3d05dd018b7cc30724787d5bea0a4d7f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_dacec0306546998a014663ba46472f36.setIcon(icon_3d05dd018b7cc30724787d5bea0a4d7f);
+        
+    
+        var popup_bc681c4b4c73c19588a143ec935e1894 = L.popup({"maxWidth": 300});
+
+        
+            var html_bef8ad41265af85d6091348df5c879c9 = $(`<div id="html_bef8ad41265af85d6091348df5c879c9" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Szwajcaria<br><b>Importance:</b> 0.95809962364501</div>`)[0];
+            popup_bc681c4b4c73c19588a143ec935e1894.setContent(html_bef8ad41265af85d6091348df5c879c9);
+        
+
+        marker_dacec0306546998a014663ba46472f36.bindPopup(popup_bc681c4b4c73c19588a143ec935e1894)
+        ;
+
+        
+    
+    
+            var marker_6f87a86c0d4e93700c0dd545cca9295c = L.marker(
+                [50.04691015, 19.9970637622827],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_a9fd29f412d659094c829a866db8a67b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6f87a86c0d4e93700c0dd545cca9295c.setIcon(icon_a9fd29f412d659094c829a866db8a67b);
+        
+    
+        var popup_6198c51392cf906fb978bdc42eced0ca = L.popup({"maxWidth": 300});
+
+        
+            var html_22debe0da30448a57bf699bd44c6301d = $(`<div id="html_22debe0da30448a57bf699bd44c6301d" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Kraków, województwo małopolskie, Polska<br><b>Importance:</b> 0.81714770710777</div>`)[0];
+            popup_6198c51392cf906fb978bdc42eced0ca.setContent(html_22debe0da30448a57bf699bd44c6301d);
+        
+
+        marker_6f87a86c0d4e93700c0dd545cca9295c.bindPopup(popup_6198c51392cf906fb978bdc42eced0ca)
+        ;
+
+        
+    
+    
+            var marker_5c4e896a1c4b3463a91dc3df25a03f22 = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_bf857c7357621ce5c75e9142d8d01965 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5c4e896a1c4b3463a91dc3df25a03f22.setIcon(icon_bf857c7357621ce5c75e9142d8d01965);
+        
+    
+        var popup_9072dfe875e65b4ac01916d6e8e68fac = L.popup({"maxWidth": 300});
+
+        
+            var html_dd5ba6d77e0ae937e2e3d143e78e6af1 = $(`<div id="html_dd5ba6d77e0ae937e2e3d143e78e6af1" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_9072dfe875e65b4ac01916d6e8e68fac.setContent(html_dd5ba6d77e0ae937e2e3d143e78e6af1);
+        
+
+        marker_5c4e896a1c4b3463a91dc3df25a03f22.bindPopup(popup_9072dfe875e65b4ac01916d6e8e68fac)
+        ;
+
+        
+    
+    
+            var marker_42d05ff3d8196f45f4ed03edce00f335 = L.marker(
+                [53.2668455, 22.8525787],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_07041a1e9862fedb5ed8dfba60a2fb91 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_42d05ff3d8196f45f4ed03edce00f335.setIcon(icon_07041a1e9862fedb5ed8dfba60a2fb91);
+        
+    
+        var popup_e3e3de393a43e1ea1012e3d0fd88945d = L.popup({"maxWidth": 300});
+
+        
+            var html_3308b5f6f0dd21e4f13a01028ce0f4cb = $(`<div id="html_3308b5f6f0dd21e4f13a01028ce0f4cb" style="width: 100.0%; height: 100.0%;"><b>Name:</b> województwo podlaskie, Polska<br><b>Importance:</b> 0.69134395347837</div>`)[0];
+            popup_e3e3de393a43e1ea1012e3d0fd88945d.setContent(html_3308b5f6f0dd21e4f13a01028ce0f4cb);
+        
+
+        marker_42d05ff3d8196f45f4ed03edce00f335.bindPopup(popup_e3e3de393a43e1ea1012e3d0fd88945d)
+        ;
+
+        
+    
+    
+            var marker_73f06483469d57c899c797a877100000 = L.marker(
+                [53.18243065, 22.0521838178088],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_26dbf0c9a4f86cf176ad98b54fcac667 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_73f06483469d57c899c797a877100000.setIcon(icon_26dbf0c9a4f86cf176ad98b54fcac667);
+        
+    
+        var popup_24905a861fcc257ffef088356fe4deb7 = L.popup({"maxWidth": 300});
+
+        
+            var html_6e6619d01284e695f8342a3563de7687 = $(`<div id="html_6e6619d01284e695f8342a3563de7687" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Łomża, województwo podlaskie, Polska<br><b>Importance:</b> 0.52394421459897</div>`)[0];
+            popup_24905a861fcc257ffef088356fe4deb7.setContent(html_6e6619d01284e695f8342a3563de7687);
+        
+
+        marker_73f06483469d57c899c797a877100000.bindPopup(popup_24905a861fcc257ffef088356fe4deb7)
+        ;
+
+        
+    
+    
+            var marker_cb91478875b68c8becad2da303975934 = L.marker(
+                [50.04691015, 19.9970637622827],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_2bafd6652958a238797f2c68c9263358 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_cb91478875b68c8becad2da303975934.setIcon(icon_2bafd6652958a238797f2c68c9263358);
+        
+    
+        var popup_c050d21a5a261c45e86ef9c79c9c2049 = L.popup({"maxWidth": 300});
+
+        
+            var html_348c5e415bd7987e538040c9b7028062 = $(`<div id="html_348c5e415bd7987e538040c9b7028062" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Kraków, województwo małopolskie, Polska<br><b>Importance:</b> 0.81714770710777</div>`)[0];
+            popup_c050d21a5a261c45e86ef9c79c9c2049.setContent(html_348c5e415bd7987e538040c9b7028062);
+        
+
+        marker_cb91478875b68c8becad2da303975934.bindPopup(popup_c050d21a5a261c45e86ef9c79c9c2049)
+        ;
+
+        
+    
+    
+            var marker_f7d2036194a513eaa8be7c234a124d44 = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_2709ff17fda0f6534a2909d1f6e36429 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f7d2036194a513eaa8be7c234a124d44.setIcon(icon_2709ff17fda0f6534a2909d1f6e36429);
+        
+    
+        var popup_82b70c4bf9a3a012b204c2bdb38c5ad3 = L.popup({"maxWidth": 300});
+
+        
+            var html_ede14293bb42e21d7ed6fcf169536870 = $(`<div id="html_ede14293bb42e21d7ed6fcf169536870" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_82b70c4bf9a3a012b204c2bdb38c5ad3.setContent(html_ede14293bb42e21d7ed6fcf169536870);
+        
+
+        marker_f7d2036194a513eaa8be7c234a124d44.bindPopup(popup_82b70c4bf9a3a012b204c2bdb38c5ad3)
+        ;
+
+        
+    
+    
+            var marker_0d9b761f9eca1d9c6b2a3f2d8e538a4d = L.marker(
+                [50.04691015, 19.9970637622827],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_3eb2afeb961e1f77363a05533d3a1994 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0d9b761f9eca1d9c6b2a3f2d8e538a4d.setIcon(icon_3eb2afeb961e1f77363a05533d3a1994);
+        
+    
+        var popup_3dfaa73d6f74d4cef8cc539f352a826c = L.popup({"maxWidth": 300});
+
+        
+            var html_6a7d39a0dd38ddf2c7421c08845320a7 = $(`<div id="html_6a7d39a0dd38ddf2c7421c08845320a7" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Kraków, województwo małopolskie, Polska<br><b>Importance:</b> 0.81714770710777</div>`)[0];
+            popup_3dfaa73d6f74d4cef8cc539f352a826c.setContent(html_6a7d39a0dd38ddf2c7421c08845320a7);
+        
+
+        marker_0d9b761f9eca1d9c6b2a3f2d8e538a4d.bindPopup(popup_3dfaa73d6f74d4cef8cc539f352a826c)
+        ;
+
+        
+    
+    
+            var marker_35e3120788f9065e0575307a7af1b1ca = L.marker(
+                [50.04691015, 19.9970637622827],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_0503c0b60d85343a7973231a758ffb83 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_35e3120788f9065e0575307a7af1b1ca.setIcon(icon_0503c0b60d85343a7973231a758ffb83);
+        
+    
+        var popup_765e13af938c761964ed288745223208 = L.popup({"maxWidth": 300});
+
+        
+            var html_d4fbfe4c6a8674c23f896e800f7d63e4 = $(`<div id="html_d4fbfe4c6a8674c23f896e800f7d63e4" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Kraków, województwo małopolskie, Polska<br><b>Importance:</b> 0.81714770710777</div>`)[0];
+            popup_765e13af938c761964ed288745223208.setContent(html_d4fbfe4c6a8674c23f896e800f7d63e4);
+        
+
+        marker_35e3120788f9065e0575307a7af1b1ca.bindPopup(popup_765e13af938c761964ed288745223208)
+        ;
+
+        
+    
+    
+            var marker_57a7466897fc68d75c343813b3b617ad = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_4ab479c5adf877e68921e96b71d8efb8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_57a7466897fc68d75c343813b3b617ad.setIcon(icon_4ab479c5adf877e68921e96b71d8efb8);
+        
+    
+        var popup_a2fc607db21d9d3d19c422ebc1256e4f = L.popup({"maxWidth": 300});
+
+        
+            var html_efcd279559431579ecf677d8753c149c = $(`<div id="html_efcd279559431579ecf677d8753c149c" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_a2fc607db21d9d3d19c422ebc1256e4f.setContent(html_efcd279559431579ecf677d8753c149c);
+        
+
+        marker_57a7466897fc68d75c343813b3b617ad.bindPopup(popup_a2fc607db21d9d3d19c422ebc1256e4f)
+        ;
+
+        
+    
+    
+            var marker_48fee84835d791a169da27c280e431ef = L.marker(
+                [54.36143405, 18.6282184755727],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_311200ed08cf1e203b2150c4809435c1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_48fee84835d791a169da27c280e431ef.setIcon(icon_311200ed08cf1e203b2150c4809435c1);
+        
+    
+        var popup_0f13b00effc336d4096c340e0cc41b58 = L.popup({"maxWidth": 300});
+
+        
+            var html_e696f598a390683050d9b2026e99e060 = $(`<div id="html_e696f598a390683050d9b2026e99e060" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Gdańsk, województwo pomorskie, Polska<br><b>Importance:</b> 0.77915633250529</div>`)[0];
+            popup_0f13b00effc336d4096c340e0cc41b58.setContent(html_e696f598a390683050d9b2026e99e060);
+        
+
+        marker_48fee84835d791a169da27c280e431ef.bindPopup(popup_0f13b00effc336d4096c340e0cc41b58)
+        ;
+
+        
+    
+    
+            var marker_3df0f00fd2fdbb3c0257a0bc71ac3bee = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_20a2949d3053753ce3a4d4a0e9fe684e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3df0f00fd2fdbb3c0257a0bc71ac3bee.setIcon(icon_20a2949d3053753ce3a4d4a0e9fe684e);
+        
+    
+        var popup_6a1affa4006f3d2929c26a4a4db71ab3 = L.popup({"maxWidth": 300});
+
+        
+            var html_2444fcf16f1c00847c031c48f0e914e1 = $(`<div id="html_2444fcf16f1c00847c031c48f0e914e1" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_6a1affa4006f3d2929c26a4a4db71ab3.setContent(html_2444fcf16f1c00847c031c48f0e914e1);
+        
+
+        marker_3df0f00fd2fdbb3c0257a0bc71ac3bee.bindPopup(popup_6a1affa4006f3d2929c26a4a4db71ab3)
+        ;
+
+        
+    
+    
+            var marker_13a6c063c2cda9c22e67000c52ad9ddd = L.marker(
+                [52.2337172, 21.0714111288323],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_19c35f7979f2702fb0598544466c49e7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_13a6c063c2cda9c22e67000c52ad9ddd.setIcon(icon_19c35f7979f2702fb0598544466c49e7);
+        
+    
+        var popup_27336ab2a758661da1e71dd9f7725d01 = L.popup({"maxWidth": 300});
+
+        
+            var html_fdbeb692701fedee85582576fbedbeae = $(`<div id="html_fdbeb692701fedee85582576fbedbeae" style="width: 100.0%; height: 100.0%;"><b>Name:</b> Warszawa, województwo mazowieckie, Polska<br><b>Importance:</b> 0.86290184643018</div>`)[0];
+            popup_27336ab2a758661da1e71dd9f7725d01.setContent(html_fdbeb692701fedee85582576fbedbeae);
+        
+
+        marker_13a6c063c2cda9c22e67000c52ad9ddd.bindPopup(popup_27336ab2a758661da1e71dd9f7725d01)
+        ;
+
+        
+    
+    
+            var marker_93e893f6b1cb8837ae79b436afc22a2d = L.marker(
+                [53.2668455, 22.8525787],
+                {}
+            ).addTo(map_df8137dd31b138ca525dab4753d43bde);
+        
+    
+            var icon_cd8aded0705dcd4ee2aa460b7e174a4e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_93e893f6b1cb8837ae79b436afc22a2d.setIcon(icon_cd8aded0705dcd4ee2aa460b7e174a4e);
+        
+    
+        var popup_83505bebb5ebf5f3be6610df8d92c55e = L.popup({"maxWidth": 300});
+
+        
+            var html_b271e664c942bf91e414a632cbb694ae = $(`<div id="html_b271e664c942bf91e414a632cbb694ae" style="width: 100.0%; height: 100.0%;"><b>Name:</b> województwo podlaskie, Polska<br><b>Importance:</b> 0.69134395347837</div>`)[0];
+            popup_83505bebb5ebf5f3be6610df8d92c55e.setContent(html_b271e664c942bf91e414a632cbb694ae);
+        
+
+        marker_93e893f6b1cb8837ae79b436afc22a2d.bindPopup(popup_83505bebb5ebf5f3be6610df8d92c55e)
+        ;
+
+        
+    
+</script>
+</html>

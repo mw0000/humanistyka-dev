@@ -1,0 +1,144 @@
+<div class="mw-content-ltr mw-parser-output" lang="pl" dir="ltr"><table class="infobox">
+<caption class="naglowek"><style data-mw-deduplicate="TemplateStyles:r65781301">.mw-parser-output .infobox>caption>.iboxt-flex{display:flex;justify-content:flex-start;align-items:center;gap:4px}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-ikona{flex-grow:0;flex-shrink:0;font-size:7px;max-width:40px;overflow:hidden}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-tekst{flex-grow:1}.mw-parser-output .infobox>caption .iboxt-1{font-weight:bold}.mw-parser-output .infobox>caption .iboxt-2{font-style:italic}.mw-parser-output .infobox>caption .iboxt-3{font-style:italic;font-size:90%}</style><div class="iboxt-1">Marcelina Czartoryska</div>
+</caption>
+<tbody><tr class="grafika iboxs">
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/Plik:Marcelina_Czartoryska_by_Jan_Matejko.JPG" class="mw-file-description" title="Portret pędzla Jana Matejki (1874), obecnie w posiadaniu Muzeum Narodowego w Krakowie"><img alt="Ilustracja" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Marcelina_Czartoryska_by_Jan_Matejko.JPG/177px-Marcelina_Czartoryska_by_Jan_Matejko.JPG" decoding="async" width="177" height="240" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Marcelina_Czartoryska_by_Jan_Matejko.JPG/265px-Marcelina_Czartoryska_by_Jan_Matejko.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Marcelina_Czartoryska_by_Jan_Matejko.JPG/354px-Marcelina_Czartoryska_by_Jan_Matejko.JPG 2x" data-file-width="636" data-file-height="862" /></a></span><br />Portret pędzla <a href="/wiki/Jan_Matejko" title="Jan Matejko">Jana Matejki</a> (1874), obecnie w posiadaniu <a href="/wiki/Muzeum_Narodowe_w_Krakowie" title="Muzeum Narodowe w Krakowie">Muzeum Narodowego w Krakowie</a>
+</td></tr>
+<tr class="grafika iboxs">
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/Plik:POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg" class="mw-file-description"><img alt="Herb" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg/118px-POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg/177px-POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg/236px-POL_COA_Radziwi%C5%82%C5%82_Ksi%C4%85%C5%BC%C4%99_Ia.svg.png 2x" data-file-width="1175" data-file-height="1193" /></a></span>
+</td></tr>
+<tr>
+<th>Rodzina
+</th>
+<td>
+<p><a href="/wiki/Radziwi%C5%82%C5%82owie_herbu_Tr%C4%85by" class="mw-redirect" title="Radziwiłłowie herbu Trąby">Radziwiłłowie herbu Trąby</a>
+</p>
+</td></tr>
+<tr>
+<th>Data i&#160;miejsce urodzenia
+</th>
+<td>
+<p><span style="white-space:nowrap"><a href="/wiki/18_maja" title="18 maja">18 maja</a> <a href="/wiki/1817" title="1817">1817</a></span> <br /><a href="/wiki/Pod%C5%82u%C5%BCne" title="Podłużne">Podłużne</a> 
+</p>
+</td></tr>
+<tr>
+<th>Data i&#160;miejsce śmierci
+</th>
+<td>
+<p><span style="white-space:nowrap"><a href="/wiki/5_czerwca" title="5 czerwca">5 czerwca</a> <a href="/wiki/1894" title="1894">1894</a></span> <br /><a href="/wiki/Krak%C3%B3w" title="Kraków">Kraków</a> 
+</p>
+</td></tr>
+<tr>
+<th>Ojciec
+</th>
+<td>
+<p>Michał Radziwiłł
+</p>
+</td></tr>
+<tr>
+<th>Matka
+</th>
+<td>
+<p>Emilia Worcellówna
+</p>
+</td></tr>
+<tr>
+<th>Mąż
+</th>
+<td>
+<p>
+Aleksander Romuald Czartoryski
+</p>
+</td></tr>
+<tr>
+<th>Dzieci
+</th>
+<td>
+<p>
+<a href="/wiki/Marceli_Czartoryski" title="Marceli Czartoryski">Marceli Czartoryski</a>
+</p>
+</td></tr>
+
+<tr class="noprint plainlinks" style="border-top:1px solid var(--border-color-base, #a2a9b1); text-align:center;">
+<td colspan="2" style="padding:0;">
+<table cellpadding="4" cellspacing="0" style="width:100%; margin:0px; background:var(--background-color-base, #fff); color:inherit">
+
+<tbody><tr>
+<td style="vertical-align:middle; width:30px;"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Marcelina_Czartoryska" title="Commons"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" decoding="async" width="21" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>
+</td>
+<td style="vertical-align:middle;"><a href="https://commons.wikimedia.org/wiki/Category:Marcelina_Czartoryska" class="extiw" title="commons:Category:Marcelina Czartoryska">Multimedia w Wikimedia Commons</a>
+</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/Plik:Ostatnie_chwile_Fryderyka_Chopina.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ostatnie_chwile_Fryderyka_Chopina.jpg/200px-Ostatnie_chwile_Fryderyka_Chopina.jpg" decoding="async" width="200" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ostatnie_chwile_Fryderyka_Chopina.jpg/300px-Ostatnie_chwile_Fryderyka_Chopina.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ostatnie_chwile_Fryderyka_Chopina.jpg/400px-Ostatnie_chwile_Fryderyka_Chopina.jpg 2x" data-file-width="800" data-file-height="600" /></a><figcaption><i><a href="/wiki/Ostatnie_chwile_Fryderyka_Chopina" title="Ostatnie chwile Fryderyka Chopina">Ostatnie chwile Fryderyka Chopina</a></i>, obraz <a href="/wiki/Teofil_Kwiatkowski" title="Teofil Kwiatkowski">Teofila Kwiatkowskiego</a> z 1849 lub 1850 roku. Czartoryska stoi przy łożu</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/Plik:Willa_Decjusza,_2009.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Willa_Decjusza%2C_2009.JPG/200px-Willa_Decjusza%2C_2009.JPG" decoding="async" width="200" height="137" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Willa_Decjusza%2C_2009.JPG/300px-Willa_Decjusza%2C_2009.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Willa_Decjusza%2C_2009.JPG/400px-Willa_Decjusza%2C_2009.JPG 2x" data-file-width="2661" data-file-height="1817" /></a><figcaption>Willa Decjusza (2009)</figcaption></figure>
+<p><b>Marcelina Czartoryska</b> z <b>Radziwiłłów</b> (ur. <a href="/wiki/18_maja" title="18 maja">18 maja</a> <a href="/wiki/1817" title="1817">1817</a> w <a href="/wiki/Pod%C5%82u%C5%BCne" title="Podłużne">Podłużnem</a> na Polesiu, zm. <a href="/wiki/5_czerwca" title="5 czerwca">5 czerwca</a> <a href="/wiki/1894" title="1894">1894</a> w <a href="/wiki/Krak%C3%B3w" title="Kraków">Krakowie</a>) – polska <a href="/wiki/Pianista" title="Pianista">pianistka</a>, działaczka społeczna i mecenas muzyki.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Działalność_w_Europie"><span id="Dzia.C5.82alno.C5.9B.C4.87_w_Europie"></span>Działalność w Europie</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=1" title="Edytuj sekcję: Działalność w Europie" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=1" title="Edytuj kod źródłowy sekcji: Działalność w Europie"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Od piątego roku życia przebywała w <a href="/wiki/Wiede%C5%84" title="Wiedeń">Wiedniu</a>, gdzie uczyła się gry na fortepianie pod kierunkiem <a href="/wiki/Carl_Czerny" title="Carl Czerny">Carla Czernego</a>, ucznia <a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Beethovena</a>. W 1840 r. wyszła za mąż za księcia Aleksandra Romualda Czartoryskiego, bratanka księcia <a href="/wiki/Adam_Jerzy_Czartoryski" title="Adam Jerzy Czartoryski">Adama Czartoryskiego</a>. Osiem lat później – po wydaleniu przez władze austriackie z Wiednia – przeniosła się do <a href="/wiki/Pary%C5%BC" title="Paryż">Paryża</a>, gdzie brała lekcje gry na fortepianie u <a href="/wiki/Fryderyk_Chopin" title="Fryderyk Chopin">Fryderyka Chopina</a>. Cytując hrabiego <a href="/wiki/Stanis%C5%82aw_Tarnowski" class="mw-disambig" title="Stanisław Tarnowski">Stanisława Tarnowskiego</a>, Chopin „widząc w niej talent tak niepospolity, kształcił go usilnie nauką i rozmową”; z kolei <a href="/wiki/Ferdynand_Hoesick" title="Ferdynand Hoesick">Ferdynand Hoesick</a> stwierdził, że „nikt, prócz pani <a href="/wiki/George_Sand" title="George Sand">Sand</a>, nie umiał z nim obchodzić się tak jak księżna; w niczyim towarzystwie nie czuł się tak uspokojony, tak szczęśliwy”. Była obecna przy śmierci Chopina w 1849 r.
+</p><p>Czartoryska często podróżowała po Europie, dając koncerty na cele dobroczynne, nieraz przy udziale wybitnych wirtuozów; znaleźli się wśród nich m.in. <a href="/wiki/Henri_Vieuxtemps" title="Henri Vieuxtemps">Henri Vieuxtemps</a>, <a href="/wiki/Auguste_Franchomme" title="Auguste Franchomme">Auguste Franchomme</a>, <a href="/wiki/Pauline_Viardot" title="Pauline Viardot">Pauline Viardot</a> czy <a href="/wiki/Ferenc_Liszt" title="Ferenc Liszt">Ferenc Liszt</a>. W jej repertuarze Chopinowskim znajdowały się m.in. oba koncerty fortepianowe oraz <a href="/wiki/II_Sonata_fortepianowa_(Chopin)" title="II Sonata fortepianowa (Chopin)">Sonata b-moll</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Działalność_w_Polsce"><span id="Dzia.C5.82alno.C5.9B.C4.87_w_Polsce"></span>Działalność w Polsce</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=2" title="Edytuj sekcję: Działalność w Polsce" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=2" title="Edytuj kod źródłowy sekcji: Działalność w Polsce"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>W latach 1856–1858 wielokrotnie przyjeżdżała do Polski. Koncertowała we <a href="/wiki/Lw%C3%B3w" title="Lwów">Lwowie</a>, <a href="/wiki/Pozna%C5%84" title="Poznań">Poznaniu</a> i <a href="/wiki/Krak%C3%B3w" title="Kraków">Krakowie</a>, wykonując m.in. <a href="/wiki/I_koncert_fortepianowy_Chopina" title="I koncert fortepianowy Chopina">Koncert fortepianowy e-moll</a> Chopina przy akompaniamencie <a href="/wiki/W%C5%82adys%C5%82aw_%C5%BBele%C5%84ski" title="Władysław Żeleński">Władysława Żeleńskiego</a>. W 1867 na stałe wróciła do ojczyzny, początkowo mieszkała we Lwowie, a od 1870 r. w Krakowie w <a href="/wiki/Willa_Decjusza" title="Willa Decjusza">Willi Decjusza</a> na Woli Justowskiej. Prowadziła dom otwarty, który wkrótce stał się znanym salonem muzycznym.
+Drugą jej rezydencją w Krakowie był tzw. pałac starostów wolbromskich przy <a href="/wiki/Ulica_S%C5%82awkowska_w_Krakowie" title="Ulica Sławkowska w Krakowie">ul. Sławkowskiej</a> nr 5. Budynek ten został zakupiony przez ks. Aleksandra i Marcelinę Czartoryskich w drugiej połowie XIX w. z przeznaczeniem na ich miejską siedzibę. Przebudowy pałacu dla nowych właścicieli dokonał w 1875 r. architekt Maksymilian Nitsch. W gustownie i elegancko urządzonych wnętrzach zgromadzono dzieła sztuki i pamiątki historyczne związane z dziejami Polski i historią rodu <a href="/wiki/Czartoryscy" class="mw-disambig" title="Czartoryscy">Czartoryskich</a>. Główna sala pałacu – tzw. marmurowa – została przeznaczona na potrzeby koncertowe. Ks. Marcelina dawała w niej koncerty fortepianowe dla zapraszanych w środy gości. Komnatę zdobił kominek, na którym stało marmurowe popiersie Fryderyka Chopina, a całość uzupełniały jedwabne kotary z wyhaftowaną „<a href="/wiki/Pogo%C5%84_(herb)" title="Pogoń (herb)">Pogonią</a>” – herbem Czartoryskich. W wielkim salonie zawieszono natomiast portret ks. Adama Czartoryskiego autorstwa Delaroche'a, portret ks. Aleksandra Czartoryskiego malowany przez <a href="/wiki/Henryk_Rodakowski" title="Henryk Rodakowski">Henryka Rodakowskiego</a> i portret ks. Marceliny Czartoryskiej pędzla <a href="/wiki/Jan_Matejko" title="Jan Matejko">Jana Matejki</a>. W gabinecie pani domu znajdowały się dwa inne cenne płótna: „Śmierć ks. Adama Czartoryskiego” Le Roux i „Maciek Borkowic” Matejki. Rezydencja przy Sławkowskiej pozostawała we władaniu Czartoryskich przez 10 lat. W 1886 r. została przebudowana na reprezentacyjny „<a href="/wiki/Hotel_%26_Palace_Grand_w_Krakowie" class="mw-redirect" title="Hotel &amp; Palace Grand w Krakowie">Grand Hotel</a>”<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Działalność_pedagogiczna_w_Krakowie"><span id="Dzia.C5.82alno.C5.9B.C4.87_pedagogiczna_w_Krakowie"></span>Działalność pedagogiczna w Krakowie</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=3" title="Edytuj sekcję: Działalność pedagogiczna w Krakowie" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=3" title="Edytuj kod źródłowy sekcji: Działalność pedagogiczna w Krakowie"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Czartoryska nie ograniczała się jedynie do tzw. „salonów muzycznych”, urządzanych regularnie w środy w swoim pałacu, ale inicjowała także publiczne imprezy muzyczne. Była protektorką krakowskiego Towarzystwa Muzycznego i dzięki swoim zabiegom dyplomatycznym u władz w Wiedniu przyczyniła się do otwarcia <a href="/wiki/Akademia_Muzyczna_w_Krakowie" class="mw-redirect" title="Akademia Muzyczna w Krakowie">Konserwatorium Muzycznego</a> (1888). Z jej porad pianistycznych korzystali polscy pianiści: <a href="/wiki/Natalia_Janotha" title="Natalia Janotha">Natalia Janotha</a>, <a href="/wiki/Cecylia_Dzia%C5%82y%C5%84ska" title="Cecylia Działyńska">Cecylia Działyńska</a> oraz nestor polskiej pianistyki <a href="/wiki/Aleksander_Micha%C5%82owski_(pianista)" title="Aleksander Michałowski (pianista)">Aleksander Michałowski</a>. Michałowskiemu zawdzięczamy przekaz o sposobie wykonywania przez Czartoryską mazurków Chopina: kontraście pomiędzy karczmą a salonem, pospolitością i wykwintnością. Ta wizja miała pochodzić od samego kompozytora.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Działalność_społeczna"><span id="Dzia.C5.82alno.C5.9B.C4.87_spo.C5.82eczna"></span>Działalność społeczna</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=4" title="Edytuj sekcję: Działalność społeczna" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=4" title="Edytuj kod źródłowy sekcji: Działalność społeczna"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Po śmierci męża w 1886 r. zaprzestała publicznych występów, poświęcając się działalności charytatywnej. Z jej inicjatywy powstał między innymi Szpital Dziecięcy św. Ludwika. Pochowana została na <a href="/wiki/Cmentarz_Rakowicki" title="Cmentarz Rakowicki">Cmentarzu Rakowickim</a> w szatach zakonnych jako tercjarka karmelitańska<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Przypisy">Przypisy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=5" title="Edytuj sekcję: Przypisy" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=5" title="Edytuj kod źródłowy sekcji: Przypisy"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="do-not-make-smaller refsection"><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Marek Żukow-Karczewski, <i>Pałace Krakowa. Pałac starostów wolbromskich („Grand Hotel”)</i>, „<a href="/wiki/Echo_Krakowa" title="Echo Krakowa">Echo Krakowa</a>”, 193 (13002) 1989.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.zck-krakow.pl/11/people/15/czartoryska_marcelina_-_ksiezna">Czartoryska Marcelina – księżna</a></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Bibliografia">Bibliografia</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=6" title="Edytuj sekcję: Bibliografia" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=6" title="Edytuj kod źródłowy sekcji: Bibliografia"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><cite class="citation book nourl"><a href="/wiki/Stanis%C5%82aw_Dybowski_(muzyk)" title="Stanisław Dybowski (muzyk)"><span class="cite-name-before"><span class="cite-name-full">Stanisław</span><span class="cite-name-initials" title="Stanisław" style="display:none">S.</span>&#160;</span><span class="cite-lastname">Dybowski</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Stanisław</span><span class="cite-name-initials" title="Stanisław">S.</span></span></a>, <i>Słownik pianistów polskich</i>, Warszawa: Wyd. Selene, 2003, s.&#160;109-110, <a href="/wiki/Specjalna:Ksi%C4%85%C5%BCki/8391051552" title="Specjalna:Książki/8391051552">ISBN&#160;<span class="isbn">83-910515-5-2</span></a>, <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://worldcat.org/oclc/830494425">830494425</a><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft.place=Warszawa&amp;rft.aufirst=Stanis%C5%82aw&amp;rft.aulast=Dybowski&amp;rft.date=2003&amp;rft.isbn=83-910515-5-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=S%C5%82ownik+pianist%C3%B3w+polskich&amp;rft.pub=Wyd.+Selene&amp;rft_id=info%3Aoclcnum%2F830494425" style="display:none">&#160;</span>.</cite></li>
+<li>M. Burch, <i>Encyklopedia Muzyczna PWM. Część biograficzna</i></li>
+<li>Zofia Wojtkowska, <i>Saga rodu Czartoryskich</i>, Wydawnictwo Iskry, Warszawa 2020.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Linki_zewnętrzne"><span id="Linki_zewn.C4.99trzne"></span>Linki zewnętrzne</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;veaction=edit&amp;section=7" title="Edytuj sekcję: Linki zewnętrzne" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Marcelina_Czartoryska&amp;action=edit&amp;section=7" title="Edytuj kod źródłowy sekcji: Linki zewnętrzne"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sejm-wielki.pl/b/3.662.441">Drzewo genealogiczne księżnej Marceliny Czartoryskiej</a></li>
+<li><a rel="nofollow" class="external text" href="https://polona.pl/search/?filters=keyword:Czartoryska,_Marcelina,public:1,hasTextContent:0">Materiały związane z Marceliną Czartoryską</a> w bibliotece <a href="/wiki/Polona" title="Polona">Polona</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r74016753">.mw-parser-output #normdaten>div+div{margin-top:0.5em}.mw-parser-output #normdaten>div>div{background:var(--background-color-neutral,#eaecf0);padding:.2em .5em}.mw-parser-output #normdaten ul{margin:0;padding:0}.mw-parser-output #normdaten ul li:first-child{padding-left:.5em;border-left:1px solid var(--border-color-base,#a2a9b1)}</style>
+<div id="normdaten" class="catlinks"><div class="normdaten-typ-p"><div><a href="/wiki/Kontrola_autorytatywna" title="Kontrola autorytatywna">Kontrola autorytatywna</a>&#160;(<span class="description">osoba</span>):</div><ul><li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000408633777">0000000408633777</a></span></li><li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://viaf.org/viaf/301624019">301624019</a></span></li><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1059554496">1059554496</a></span></li><li><a href="/wiki/Biblioth%C3%A8que_nationale" title="Bibliothèque nationale">BnF</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb10691686h">10691686h</a></span></li><li><a href="/wiki/Biblioteka_Narodowa_(Warszawa)" title="Biblioteka Narodowa (Warszawa)">PLWABN</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="https://dbn.bn.org.pl/descriptor-details/9810665482105606">9810665482105606</a></span></li><li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202009154912">n2009154912</a></span></li><li><a href="/wiki/R%C3%A9pertoire_International_des_Sources_Musicales" title="Répertoire International des Sources Musicales">RISM</a>:&#8201;<span class="uid"><a rel="nofollow" class="external text" href="https://rism.online/people/41009143">people/41009143</a></span></li></ul></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐7dd76d89b9‐qs9vc
+Cached time: 20241106004714
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.122 seconds
+Real time usage: 0.164 seconds
+Preprocessor visited node count: 1123/1000000
+Post‐expand include size: 13051/2097152 bytes
+Template argument size: 2972/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1972/5000000 bytes
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 2076352/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.273      1 -total
+ 65.11%   80.908      1 Szablon:Szlachcic_infobox
+ 19.90%   24.729      1 Szablon:Infobox_tytuł
+ 19.55%   24.301      3 Szablon:Infobox_grafika
+ 16.90%   21.002      1 Szablon:Cytuj
+ 14.85%   18.451      1 Szablon:Kontrola_autorytatywna
+  8.43%   10.473      7 Szablon:Infobox_wiersz
+  7.33%    9.110      2 Szablon:Infobox_data_i_miejsce
+  4.11%    5.102      8 Szablon:Infobox_wiersz_dodaj
+  2.23%    2.775      3 Szablon:Infobox_projekt
+-->
+
+<!-- Saved in parser cache with key plwiki:pcache:idhash:1029634-0!canonical and timestamp 20241106004714 and revision id 74953732. Rendering was triggered because: unknown
+ -->
+</div>
