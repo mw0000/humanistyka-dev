@@ -1,0 +1,49 @@
+# x2kV}fk>P-AC]R+
+# https://bsky.app/profile/test-dev-test.bsky.social
+# https://cran.r-project.org/web/packages/bskyr/index.html
+# http://christophertkenny.com/bskyr/
+
+install.packages('bskyr')
+
+# https://bsky.app/settings/privacy-and-security
+
+# 373x-nbiu-jyn6-w37o
+# bskyr-test
+
+library(bskyr)
+
+set_bluesky_user('marcinwilkowski.bsky.social')
+set_bluesky_pass('x4u3-r5an-sxmc-sh4m')
+
+#hum-dev-test-app
+#b76q-xpyx-o52k-jm4t
+ 
+bs_post('text = Your text goes here.')
+
+# https://bsky.app/profile/royalcastle.bsky.social
+#http://christophertkenny.com/bskyr/reference/bs_get_timeline.html
+# https://bsky.app/profile/nhmla.bsky.social
+
+timeline <- bs_get_author_feed("nhmla.bsky.social")
+
+t <- bs_get_author_feed('chriskenny.bsky.social')
+
+
+timeline <- bs_get_author_feed("nhmla.bsky.social", limit=352)
+
+#################
+
+images <- timeline[!is.na(timeline$post_embed.images.fullsize...32), ]
+
+write.csv(images, "images.csv", row.names = FALSE)
+
+
+
+install.packages("dplyr")
+library(dplyr)
+
+# znak operatora potokowego %>% wpisujemy za pomocą kombinacji Ctrl + Shift + M
+# do images2 została zapisana wartość images, ale przefiltrowana (wyłącznie z wyznaczonymi w funkcji select() kolumnami)
+images2 <- images %>% select(post_uri, post_cid, post_author.handle, post_record.created_at, post_like_count, post_embed.images.fullsize...32) 
+
+write.csv(images2, "images2.csv", row.names = FALSE)
