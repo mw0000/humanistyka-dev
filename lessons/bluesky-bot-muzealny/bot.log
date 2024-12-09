@@ -1,0 +1,62 @@
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+próbowanie adresu URL 'https://cdn-zbiory.mnk.pl/upload/cache/multimedia_detail/e2/d8/e2d898c5f8165f8782bd93422e9a13f5.jpg'
+Content type 'image/jpeg' length 85767 bytes (83 KB)
+==================================================
+downloaded 83 KB
+
+# A tibble: 2 × 4
+  uri                                             cid   commit validation_status
+  <chr>                                           <chr> <name> <chr>            
+1 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
+2 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+próbowanie adresu URL 'https://cdn-zbiory.mnk.pl/upload/cache/multimedia_detail/0f/8d/0f8d632dc4f4bfebd97cb732c3ac8b3e.jpg'
+Content type 'image/jpeg' length 74214 bytes (72 KB)
+==================================================
+downloaded 72 KB
+
+# A tibble: 2 × 4
+  uri                                             cid   commit validation_status
+  <chr>                                           <chr> <name> <chr>            
+1 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
+2 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+próbowanie adresu URL 'https://cdn-zbiory.mnk.pl/upload/cache/multimedia_detail/9d/8d/9d8d2bc1fb21cd3be37afa6e3254ae76.jpg'
+Content type 'image/jpeg' length 29667 bytes (28 KB)
+==================================================
+downloaded 28 KB
+
+# A tibble: 2 × 4
+  uri                                             cid   commit validation_status
+  <chr>                                           <chr> <name> <chr>            
+1 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
+2 at://did:plc:arastcclw3tydkzgtqqijnoe/app.bsky… bafy… <chr>  valid            
